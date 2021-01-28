@@ -1,0 +1,941 @@
+Business_ID,Name,Address,Coordinates,Num_of_Reviews,Rating,Zip_Code,Cuisine
+2UxAkvKkkWNwqZi9H0OzWw,Dian Kitchen,435 E 9th St,"{'latitude': 40.72772, 'longitude': -73.98321}",235,5,10009,chinese
+X8ZS-dgiMIJvhwf9SaDnjw,Wah Fung No 1,79 Chrystie St,"{'latitude': 40.71735, 'longitude': -73.99457}",1510,4.5,10002,chinese
+vZgJyMZlpSSS_Y-duxd4_A,Kings Co Imperial,20 Skillman Ave,"{'latitude': 40.71512, 'longitude': -73.95097}",313,4,11211,chinese
+0CjK3esfpFcxIopebzjFxA,Joe's Shanghai,46 Bowery St,"{'latitude': 40.7156608, 'longitude': -73.9967012}",6256,4,10013,chinese
+BkXb82Y2OIsQ5RpNNQOYmQ,China Express,192 Union Ave,"{'latitude': 40.7061859, 'longitude': -73.9501435}",112,4,11211,chinese
+A_fZL0ir_actclrL-ePTOw,JJ Kitchen,475 B Myrtle Ave,"{'latitude': 40.69354, 'longitude': -73.96627}",23,4.5,11205,chinese
+0dDCDQz7DrKkSvu9h2hcQw,Chow House,181 Bleecker St,"{'latitude': 40.72915, 'longitude': -74.00072}",400,4.5,10012,chinese
+xVduej7-JiPrZzsFXIkIDw,Lazy Siu's,742 Driggs Ave,"{'latitude': 40.71261, 'longitude': -73.96077}",36,5,11211,chinese
+lynQoI3w_pzYfHGeuUU-Qg,Shu Jiao Fu Zhou Cuisine Restaurant,118 Eldridge St,"{'latitude': 40.718454, 'longitude': -73.991664}",866,4.5,10002,chinese
+Q1TpfbuPwKPFrNFyu-u2_g,Han Dynasty,1 Dekalb Ave,"{'latitude': 40.6911319610036, 'longitude': -73.9825977757573}",285,4,11201,chinese
+cOtB9fWWLrbaBebZDjJquQ,DunHuang Miss Noodles,531 Myrtle Ave,"{'latitude': 40.693992, 'longitude': -73.963482}",22,4.5,11205,chinese
+R26zweQ8-xoZS7iHkXQOvw,Shanghai 21,21 Mott St,"{'latitude': 40.71441, 'longitude': -73.99902}",1686,4,10013,chinese
+scTDvJ2M2jDbb1ntVeIyxA,Hao Noodle - West Village,401 6th Ave,"{'latitude': 40.7334863190479, 'longitude': -73.9998929006093}",759,4,10014,chinese
+wfhMIiMh2A2psCGONOVSlg,Han Dynasty,90 3rd Ave,"{'latitude': 40.732072, 'longitude': -73.988074}",1255,4,10003,chinese
+LXhxAiLtNsFz1Edt8fFh3A,P.F. Chang's To Go,62 Fulton St,"{'latitude': 40.708625202204395, 'longitude': -74.00518559999999}",1,5,10038,chinese
+_XLLSXPIjgoZQtwU3RCcQA,Hunan Delight,752 Union St,"{'latitude': 40.6755282563532, 'longitude': -73.9780712127686}",313,4,11215,chinese
+jc7lVTvmYMIK5RNpENtS6w,Szechuan Mountain House,23 St Marks Pl,"{'latitude': 40.72911, 'longitude': -73.98858}",382,4,10003,chinese
+lJsNGj70bmuBrcAubvfTAQ,First Wok,155 York St,"{'latitude': 40.70154, 'longitude': -73.98456}",5,5,11201,chinese
+U2aUFZARLeSMf4RQIxjuTw,Lucky House Kitchen,343 Lewis Ave,"{'latitude': 40.6838402152061, 'longitude': -73.9351565390825}",101,4.5,11233,chinese
+rJ4N10Nbh-GM49qOSGFoAw,Old Xi'an,164 Pearl St,"{'latitude': 40.70591, 'longitude': -74.00747}",213,4,10005,chinese
+QQfwlKFD6X8-ZXf7gfQZqg,Hardee Chinese- American,351 Myrtle Ave,"{'latitude': 40.6933441162109, 'longitude': -73.9722290039062}",21,4.5,11205,chinese
+bnDfFdiCcPzhuNWUJORvLQ,Noodle Village,13 Mott St,"{'latitude': 40.714167, 'longitude': -73.998803}",1136,4,10013,chinese
+xCHApgtkLpEyh0lz-uhZvg,Szechuan Garden,239 W 105th St,"{'latitude': 40.80053, 'longitude': -73.967586}",309,4,10025,chinese
+LpVbI-E9C-CSp7WhU5h2Iw,Fishmarket Restaurant,111 South St,"{'latitude': 40.70717, 'longitude': -74.00192}",550,4.5,10038,chinese
+pCfGgX0WxGASGM4-Yhr2Pw,Hao Noodle Chelsea,343 W 14th St,"{'latitude': 40.7406999, 'longitude': -74.00436}",419,4.5,10014,chinese
+iSjPBJRiWqrgxW7ZM3CGig,Birds of a Feather,191 Grand St,"{'latitude': 40.71442, 'longitude': -73.960441}",380,4,11211,chinese
+fl1QLAbKNWeIRHO_msnFbQ,Fat Choy,250 Broome St,"{'latitude': 40.718081, 'longitude': -73.989753}",19,4.5,10002,chinese
+3fQ9IExhN9KMqGHVm_9AEQ,Wing Cheong Restaurant,1389 Fulton St,"{'latitude': 40.680375, 'longitude': -73.945514}",55,4,11216,chinese
+xq0cX_DgxiJMXwhmEl9kUA,Café China,13 E 37th St,"{'latitude': 40.7499225208569, 'longitude': -73.9819464127197}",1659,4,10016,chinese
+rPTX2J5KGDkN1QhPD-QOvg,Bites of Xi'an,318 Livingston St,"{'latitude': 40.6880326, 'longitude': -73.9819963}",151,4.5,11217,chinese
+oJjMYhA6z1_BVaQpSdyl8g,Golden Forest,353 Grand St,"{'latitude': 40.7167, 'longitude': -73.98945}",178,4,10002,chinese
+EmJ7rfmv2y6lQZxgA8U__g,Red Peony Chinese Cuisine,24 W 56th St,"{'latitude': 40.76278, 'longitude': -73.97589}",335,4.5,10019,chinese
+UaQF4mv6hVjiegkwUvQeMQ,Dim Sum Chelsea,236 8th Ave,"{'latitude': 40.744624, 'longitude': -73.998649}",69,4.5,10011,chinese
+XsXLVWr1UZWVhKThNvNiaA,Blue Willow 夜来湘,40 W 56th St,"{'latitude': 40.76292, 'longitude': -73.976546}",70,5,10019,chinese
+pPqEu60FMffpiWqk2MCrVA,Hutaoli music Restaurant & Bar,42 W 33rd St,"{'latitude': 40.748413, 'longitude': -73.9871229}",3,4,10001,chinese
+bVkjBJlAIwKAj9Aw1KVWjA,Dim Sum Palace,334 W 46th St,"{'latitude': 40.76015, 'longitude': -73.9893699}",1283,4,10036,chinese
+ye-TSU-mu1Gd5TAJOpI5Mg,Lichee Nut,162 Montague St,"{'latitude': 40.694149, 'longitude': -73.9928131}",269,3,11201,chinese
+v0opDMezc6pKgdfR22KUnQ,Da Tang Szechuan,18 W 38th St,"{'latitude': 40.75128, 'longitude': -73.98376}",256,4.5,10018,chinese
+FcHVRbMcYY-D1Glzwo3ofA,MR BAO,179 5th Ave,"{'latitude': 40.67719, 'longitude': -73.97981}",71,4.5,11217,chinese
+GCcJqfBm3Fq-ccYwit6xcw,Asian Taste,199 E 3rd St,"{'latitude': 40.7228795731505, 'longitude': -73.9829911834261}",16,4.5,10009,chinese
+a93NwZxjkPQydJxR42oPyg,Grain House,929 Amsterdam Ave,"{'latitude': 40.800127673827, 'longitude': -73.9657538384199}",83,4,10025,chinese
+wDuf4Qz9qsC62amLZgWNJQ,Little Alley,550 3rd Ave,"{'latitude': 40.74744, 'longitude': -73.97728}",377,4,10016,chinese
+SNhDVaf_n7VDZcfry8mYdA,The Bao,13 St Marks Pl,"{'latitude': 40.72939, 'longitude': -73.9889199}",1233,4,10003,chinese
+8ig0yf0003DAp4YOGTlbVg,Spicy Village,68 Forsyth St,"{'latitude': 40.71695, 'longitude': -73.99327}",663,4,10002,chinese
+sfsjk1h50ooC2ioY7m48gw,Pig Heaven,1420 3rd Ave,"{'latitude': 40.77544, 'longitude': -73.95686}",413,4,10028,chinese
+Kqb7MjTPNkjPMoFRd-rWpw,MáLà Project,122 1st Ave,"{'latitude': 40.72713, 'longitude': -73.98542}",682,4,10009,chinese
+97q5nUQTuBo_h00XCxna2A,Tasty Hand-Pulled Noodles,1 Doyers St,"{'latitude': 40.7142, 'longitude': -73.99787}",1621,4,10013,chinese
+5TnBfeoBpxPPwIXMGBMasg,New Double Dragon,37 1st Ave,"{'latitude': 40.7242, 'longitude': -73.98801}",88,4,10003,chinese
+4FD0TAxe70nb3ngk3sXF9Q,Uluh,152 2nd Ave,"{'latitude': 40.7293403, 'longitude': -73.9866071}",316,4,10003,chinese
+Bwj7nzWphGV6FaZ_ygTSOg,Happy Hot Hunan,969 Amsterdam Ave,"{'latitude': 40.80133, 'longitude': -73.96466}",162,3.5,10025,chinese
+wPL0epJzosoFRYox1a5lvA,New Golden Star,4247 Broadway,"{'latitude': 40.8498685, 'longitude': -73.9362273}",100,4,10033,chinese
+hUdRX0a_2ZZEmB8KCp-WYw,Authentic Szechuan,384 5th Ave,"{'latitude': 40.671147, 'longitude': -73.984866}",98,3.5,11215,chinese
+FXhSEZfIqjMZh4hR0_8jMQ,China Xiang 中国湘,360 W 42nd Street,"{'latitude': 40.7582902125633, 'longitude': -73.9925113993899}",490,4,10036,chinese
+qH8PVeddtVs9cKN2pwgdkQ,Hwa Yuan,42 E Broadway,"{'latitude': 40.7137, 'longitude': -73.99598}",303,4,10002,chinese
+6tASYtO9zOrXr8-LPnAToQ,Zest Szechuan,45 W 39th St,"{'latitude': 40.75274, 'longitude': -73.98445}",595,4,10018,chinese
+xLJnT-pB4VECJzmUf1Whpg,3 Times 茅庐,90 Clinton St,"{'latitude': 40.718271, 'longitude': -73.985209}",83,4.5,10002,chinese
+2wVirrAVg3ltAFHoHeXHMQ,Dim Sum Palace,59 2nd Ave,"{'latitude': 40.7259, 'longitude': -73.98986}",179,4.5,10003,chinese
+M-odQWSEfsR2mVEw7nKG-g,Nyonya,199 Grand St,"{'latitude': 40.7190148, 'longitude': -73.9968228}",2094,4,10013,chinese
+LztkKM-lvRraBbS9TVXzcg,Yiwanmen,150 Mott St,"{'latitude': 40.7193132739237, 'longitude': -73.9962630421457}",149,4,10013,chinese
+62Kedrco374IuZ_OFb0BxA,3 Times 茅庐,818 Broadway,"{'latitude': 40.73285, 'longitude': -73.99104}",108,4,10003,chinese
+VW2Epq3C8jqysu6Edpu-RA,Atlas Kitchen,258 W 109th St,"{'latitude': 40.80332, 'longitude': -73.9668}",113,4,10025,chinese
+Puyzn1gagH9TsJz7EBJs3g,Baji Baji,145 1st Ave,"{'latitude': 40.72817, 'longitude': -73.98511}",30,4.5,10003,chinese
+olRNNJCJ2TJvPRmjBiOcGA,Silky Kitchen,137 E 13th St,"{'latitude': 40.73297, 'longitude': -73.98829}",225,4.5,10003,chinese
+xH7mEjh4Rn6KdHjXYNoOjw,Yaso Tangbao,148 Lawrence St,"{'latitude': 40.6918206366101, 'longitude': -73.9863992364001}",765,3.5,11201,chinese
+5rX_7IkvFx5MKqS3ikQe3Q,Fortune House,82 Henry St,"{'latitude': 40.698455, 'longitude': -73.992805}",127,3,11201,chinese
+DpfE0gPBXj-aj2pnEh4E2Q,Wei Williamsburg,145 Borinquen Pl,"{'latitude': 40.7107868, 'longitude': -73.9542168}",170,3.5,11211,chinese
+qHi_FA4zSEkFshXQ4Chc9A,Jiang Diner,309 E 5th St,"{'latitude': 40.7268045, 'longitude': -73.9882662}",132,4,10003,chinese
+w3wKbjuNCZnYoPOr-FCk5w,New Moon,547 2nd Ave,"{'latitude': 40.742569, 'longitude': -73.977856}",148,4,10016,chinese
+Lp8vAE5nHSt5zbu-lSGK8A,Hop Lee Restaurant,16 Mott St,"{'latitude': 40.71426, 'longitude': -73.99849}",317,4,10013,chinese
+PGeL1b4xNJggpZsHEGoxjg,Mr Chow,121 Hudson St,"{'latitude': 40.7201045, 'longitude': -74.0087721}",390,3,10013,chinese
+QFOYvQK9y2jM7ue-DXkw2g,Family Garden,1709 Foster Ave,"{'latitude': 40.635335, 'longitude': -73.960987}",31,4,11230,chinese
+6oQKDCJrgDffPKXPTPBXlA,King Wah Restaurant,6417 Fresh Pond Rd,"{'latitude': 40.7099237520059, 'longitude': -73.8989976712028}",84,3.5,11385,chinese
+wqdFd3DZD_uTXRW784mFkg,A-Pou's Taste,963 Grand St,"{'latitude': 40.71326, 'longitude': -73.93616}",62,4.5,11211,chinese
+i68ePkcGmSimy2_OTDo5qQ,Happy Garden 813,513 6th Ave,"{'latitude': 40.73699, 'longitude': -73.99744}",4,5,10011,chinese
+3gqKLANaXNsHZnPDjKrcTg,Win Son,159 Graham Ave,"{'latitude': 40.70747, 'longitude': -73.94339}",504,4,11206,chinese
+qNMPfDIoPFGHmEHnJBnl1A,Public Village,23 Essex St N,"{'latitude': 40.715441, 'longitude': -73.99006}",30,4.5,10002,chinese
+zPK48x2wvTmJTQ_13bbeRQ,Hong Kong Cafe,357 Franklin Ave,"{'latitude': 40.687267, 'longitude': -73.95667}",37,4,11238,chinese
+ojbH3wnRu050hRhkmoxRiA,Han Dynasty,215 W 85th St,"{'latitude': 40.78752, 'longitude': -73.97647}",616,4,10024,chinese
+mUl0wtO7tPkBocuJqZ-7Dw,Dun Huang -  Grand Central,320 Lexington Ave,"{'latitude': 40.74922, 'longitude': -73.97785}",179,4.5,10016,chinese
+SBJHGtqJyfaU47NPjGAU6A,China Jade,1643 2nd Ave,"{'latitude': 40.777392, 'longitude': -73.952329}",167,3.5,10028,chinese
+zdX9mwhoknXXYL1GCstnow,Lucky Garden,305L Wyckoff Ave,"{'latitude': 40.7003, 'longitude': -73.91221}",13,4.5,11237,chinese
+6QXp37VraLy8rGIbG2-Tjw,Taste of China Brooklyn,430 4th Ave,"{'latitude': 40.67115, 'longitude': -73.98833}",9,5,11215,chinese
+CKG7LVmSlvI93scyb1aVeg,Mr Wonton,73 7th Ave,"{'latitude': 40.67517, 'longitude': -73.97481}",208,3.5,11217,chinese
+qFmyAqm0MQbdu_MHX1mhpQ,Oh Dumplings,6 Bergen St,"{'latitude': 40.6875754, 'longitude': -73.9929996}",85,4,11201,chinese
+ZN2Z_ImFRxueRhNUSoCbWw,Panda Chinese Restaurant,23 Catherine St,"{'latitude': 40.712931, 'longitude': -73.996904}",2,5,10038,chinese
+LXmlfAmrGA3NfvYSfxIVvQ,Ma LaLa,42-02 30th Ave,"{'latitude': 40.7629662660109, 'longitude': -73.913354203105}",64,4.5,11103,chinese
+Qsc2DrX3IR-uGfwnUlOzcA,Lotus Express,4840 Broadway,"{'latitude': 40.8662643432617, 'longitude': -73.9245986938477}",71,4,10034,chinese
+dDXtga5Kgo5B1twdezcZJA,Auntie Guan's Kitchen 108,108 W 14th St,"{'latitude': 40.7377213477598, 'longitude': -73.9974148512518}",345,3.5,10011,chinese
+v5884XYNUh4yXbhAhvL9hg,Nightmarket,130 1st Ave,"{'latitude': 40.72737, 'longitude': -73.98525}",69,4.5,10009,chinese
+LJntAPKObO0OfydYm3_bzQ,Kings Co Imperial,168 1/2 Delancey St,"{'latitude': 40.7180159, 'longitude': -73.9853739}",73,4,10002,chinese
+1dFOF1HPaThSCsdiqR7DrA,Land of Plenty,204E 58th St,"{'latitude': 40.76063, 'longitude': -73.96664}",325,3.5,10022,chinese
+UNyGz06_7RendbswIyNYtA,Shu Han Ju,465 6th Ave,"{'latitude': 40.73558, 'longitude': -73.99843}",174,3.5,10011,chinese
+i4cyV13lYIS4mcJKZW75cA,Food Sing,172 Grand St,"{'latitude': 40.714324, 'longitude': -73.961257}",53,3.5,11211,chinese
+zYoL-o9YJpGTwJ-Gmj8AFA,Jue Lan Club,49 W 20th St,"{'latitude': 40.7409694, 'longitude': -73.9934031}",502,3.5,10011,chinese
+k_y6o8zqI3cODdKABwWZ9g,China Garden,133 Irving Ave,"{'latitude': 40.703364, 'longitude': -73.921517}",14,4.5,11237,chinese
+tsTGTBrz2TqrYRgdr6vEJQ,C And Y Chinese,399 5th Ave,"{'latitude': 40.67042, 'longitude': -73.98496}",59,4,11215,chinese
+d_TC6Om2EBTzHVm_lCgNtg,Great NY Noodle Town,28 Bowery,"{'latitude': 40.7150363828814, 'longitude': -73.9971172437072}",1338,3.5,10013,chinese
+Aux2Mp7bGnF3S6h60ab3iQ,Yummy City,1557 Lexington Ave,"{'latitude': 40.7879244458184, 'longitude': -73.948986355818}",47,4.5,10029,chinese
+Bb0h5Rs8ugSM2CjulRhfBw,Spicy Moon East Village,328 E 6th St,"{'latitude': 40.72674, 'longitude': -73.98722}",356,4.5,10003,chinese
+NebgteFykeM1gwiVgPcCHw,The Handpulled Noodle,3600 Broadway,"{'latitude': 40.828384, 'longitude': -73.948674}",818,4,10031,chinese
+LT0yyLNM84EiJj9DL0rfHA,Hui Restaurant & Bar,314 E 70th St,"{'latitude': 40.76701, 'longitude': -73.95846}",171,4.5,10021,chinese
+kxv4jD_qXRPVrV0oPR7isQ,Yu Kitchen,2656 Broadway,"{'latitude': 40.79759, 'longitude': -73.9693099}",108,4.5,10025,chinese
+TzhAlljC_843JO7UDDUIaQ,The Tang - Upper West Side,920 Amsterdam Ave,"{'latitude': 40.80006, 'longitude': -73.96639}",216,4.5,10025,chinese
+lQ8Fzgji9qmgRXkFcvAsVQ,Chong Qing Xiao Mian,796 9th Ave,"{'latitude': 40.76513, 'longitude': -73.98753}",310,4,10019,chinese
+DjLxykRuP8OFtGtPPZpfdQ,Caridad China,108 Graham Ave,"{'latitude': 40.704952, 'longitude': -73.942577}",106,4,11206,chinese
+br6HJD_UZ_LSU36tBZGSuw,Tada Noodles,2323 Borden Ave,"{'latitude': 40.740157, 'longitude': -73.946535}",17,5,11101,chinese
+kueEZRLEaNVo6Cow3hf56Q,Nice Day Chinese,170 Bleecker St,"{'latitude': 40.72867, 'longitude': -74.0007}",8,4.5,10012,chinese
+AvTezlpt3GXTdSEnXbHP4w,Fatima's Halal Kitchen,25-25 Broadway,"{'latitude': 40.7631186084319, 'longitude': -73.9275405041124}",401,4,11106,chinese
+54om5q7V4anmIXw2PdNJbA,Chen's Buffet Bar,32 Cedar St,"{'latitude': 40.70712, 'longitude': -74.00845}",41,4,10038,chinese
+0vg2Z-HPwkyVVX613j2ysg,Peng's Noodle Folk,1659 1st Ave,"{'latitude': 40.77726, 'longitude': -73.94932}",456,4.5,10028,chinese
+tfMPbnQqJ1P1RIab-o6gtg,Kum Kau,465 Myrtle Ave,"{'latitude': 40.693573, 'longitude': -73.966702}",262,3,11205,chinese
+mRhPjOOf17Q-a8CwLbmBvA,Empire Express,319 9th St,"{'latitude': 40.66918, 'longitude': -73.98567}",45,4,11215,chinese
+FvsFSGzbmV56gqtYY4ZfQQ,La Mian Lounge,25-12 Broadway,"{'latitude': 40.7631278063422, 'longitude': -73.9279485723007}",71,4.5,11106,chinese
+C3tP0fNNAoxOAC3O406CXQ,Le Sia,651 9th Ave,"{'latitude': 40.76072, 'longitude': -73.99119}",44,4,10036,chinese
+kwGaeWUVC_MIxMFw0sM-Ww,Hong Kong Express,989 Wyckoff Ave,"{'latitude': 40.69617, 'longitude': -73.904721}",47,4,11385,chinese
+C6NvtFvXo86_kEWi3qBYWQ,Golden Dragon,3406 31st Ave,"{'latitude': 40.76287, 'longitude': -73.92097}",79,3.5,11106,chinese
+s25mujxKWphsyFm0Ji1xYA,Mr Chow,324 E 57th St,"{'latitude': 40.7588502019644, 'longitude': -73.9643376320601}",365,3,10022,chinese
+FfUc69vNKeTkGqdpnq0giQ,Fansway Teriyaki Kitchen,1513A Myrtle Ave,"{'latitude': 40.6992860185837, 'longitude': -73.9152270555496}",22,4.5,11237,chinese
+ubeG-hyIV8qoSSAk_pAZ2A,No Pork Halal Kitchen,50 4th Ave,"{'latitude': 40.68332, 'longitude': -73.97936}",131,4,11217,chinese
+bT4CDzyhV-frXV6ijvXnvw,Super Taste,26 Eldridge St,"{'latitude': 40.715117, 'longitude': -73.9933339}",570,4,10002,chinese
+SVJNB9LqI13jtVyKMZVqeg,Uncle Ted's Modern Chinese Cuisine,163 Bleecker St,"{'latitude': 40.72882, 'longitude': -73.999961}",467,3.5,10012,chinese
+kBZggrnSP1kcUMnsnfkTaQ,Nan Xiang Xiao Long Bao,39-16 Prince St,"{'latitude': 40.75924, 'longitude': -73.8326}",3669,4,11354,chinese
+IoAUbSudW1Mds5_XY_01Rg,Mission - Brooklyn,599 Johnson Ave,"{'latitude': 40.70933, 'longitude': -73.92315}",73,3.5,11237,chinese
+WIj12zDqIbBucW1hXYhrew,King's Kitchen,92 E Broadway,"{'latitude': 40.71399, 'longitude': -73.99367}",278,4,10002,chinese
+7erFgHiQmw7ZJfVPmOjeeA,M Shanghai Bistro & Garden,292 Grand St,"{'latitude': 40.71293, 'longitude': -73.95757}",430,3.5,11211,chinese
+zrV2yUsz1SxymeH51iRBRw,Chuan Tian Xia 川天下,5502 7th Ave,"{'latitude': 40.6397, 'longitude': -74.009131}",168,4.5,11220,chinese
+4NCvsUR3cKLaPgIZJK622w,Chang Hong Chinese Restaurant,409 Irving Ave,"{'latitude': 40.696949, 'longitude': -73.910232}",12,4,11237,chinese
+v2dtG37r1ThqtfEfiFsAUg,Shanghai Mong,30 W 32nd St,"{'latitude': 40.7476119995117, 'longitude': -73.9871597290039}",552,3,10001,chinese
+3Qpi419I29t3sCHMzC_h-g,Harvest Chinese & Thai Cuisine,1502 1st Ave,"{'latitude': 40.7718201, 'longitude': -73.9526672}",94,3.5,10075,chinese
+56wxE888GknVcUeAXBfqFw,Shanghai Lee,157 Franklin St,"{'latitude': 40.7318, 'longitude': -73.9582099}",130,3,11222,chinese
+k34VgKhpuIRPEr8vKSMwjA,Chung Chun Kitchen,338 Myrtle Ave,"{'latitude': 40.69314, 'longitude': -73.973}",25,3.5,11205,chinese
+0GftSP2dRwEzujkv2VKIgA,Wok Wok Southeast Asian Kitchen,11 Mott St,"{'latitude': 40.7140555, 'longitude': -73.9988387116394}",992,4,10013,chinese
+Vzx-7-jSEBz2g8NuGVhHvQ,Philippe By Philippe Chow,33 E 60th St,"{'latitude': 40.76409, 'longitude': -73.97039}",712,3.5,10065,chinese
+1fVp9c5Vw04ig171a_juRw,U Like,602 Marcy Ave,"{'latitude': 40.694007, 'longitude': -73.949259}",50,4,11206,chinese
+pMD9ZQcyKfD6N2zb0kiR2A,Hardee's,209 Utica Ave,"{'latitude': 40.6716833260603, 'longitude': -73.9305902612873}",40,4,11213,chinese
+R7EGjHWw0tNheY6-ahH8fQ,Tuome,536 E 5th St,"{'latitude': 40.72412482724, 'longitude': -73.9828906263924}",511,4.5,10009,chinese
+Dqu-5RxNbbpBsL1Ssht9Ng,Hunan Slurp,112 1st Ave,"{'latitude': 40.72669, 'longitude': -73.98563}",222,4,10009,chinese
+gtEnSb_JU_zAtdv3WL7Fug,New York Bo Ky Restaurant,94 Baxter St,"{'latitude': 40.717093, 'longitude': -73.9997243508697}",16,5,10013,chinese
+83ZcxzvtHX2PmsH_wPReOw,Grand Sichuan House,8701 5th Ave,"{'latitude': 40.62075, 'longitude': -74.02668}",233,4,11209,chinese
+5tWpAFpF618KJxBhHJzF7g,E Noodle 粥麵館 - Chinatown,5 Catherine St,"{'latitude': 40.71379, 'longitude': -73.99731}",98,4,10038,chinese
+oD0mN9vXuc1gFRyw1CG-Pw,New China Wok Chinese Kitchen,57 4th Ave,"{'latitude': 40.68257, 'longitude': -73.97927}",27,4,11217,chinese
+Jr8S-deYDqbDoo-eJI7nyg,Empire Szechuan Garden,4342 46th St,"{'latitude': 40.7442226, 'longitude': -73.9186565}",50,3.5,11104,chinese
+IhSVn0TaX8xXb3wcQ-fgcA,Vanessa's Dumpling House,118A Eldridge St,"{'latitude': 40.71839, 'longitude': -73.9917399}",2661,4,10002,chinese
+-6KT1D508e6zvqHJvv4r2Q,New Lin Wang Restaurant,9417 Ave L,"{'latitude': 40.63772, 'longitude': -73.897255}",8,3.5,11236,chinese
+RoPrfBqmRTqw_cBqcWAfYA,Dim Sum Bar,167 Grand St,"{'latitude': 40.714735, 'longitude': -73.961346}",198,4,11249,chinese
+7ZQSMqWzvXMSetXnii2fBg,Excellent Dumpling House,165 W 23rd St,"{'latitude': 40.7440494396358, 'longitude': -73.995028194335}",644,4,10011,chinese
+XzMVQtnifzlFoq6Uj4795g,A Shen Zhou Restaurant,159 Wilson Ave,"{'latitude': 40.70026, 'longitude': -73.92469}",62,3.5,11237,chinese
+GmtybiZEicQ4qqPTzhqVew,Taste of China,7100 Grand Ave,"{'latitude': 40.72762, 'longitude': -73.892011}",73,3.5,11378,chinese
+YoGcGxo9JxE7NtmMtPaNng,Golden Wok,4218 43rd Ave,"{'latitude': 40.745129, 'longitude': -73.921549}",47,3,11104,chinese
+BbODF2tZuw4xW_RFwMzwRg,Jiangnan Chinese Cuisine,103 Washington St,"{'latitude': 40.7084231394503, 'longitude': -74.0140241895666}",53,3.5,10006,chinese
+lKxmH-hQ6ezKbq4URKrd-Q,May Wah Fast Food,190 Hester St,"{'latitude': 40.71825, 'longitude': -73.99842}",354,4,10013,chinese
+PGBHteqfNcTqesQFKqqdsg,China New Star,2212 Flatbush Ave,"{'latitude': 40.615961, 'longitude': -73.929765}",136,3.5,11234,chinese
+7hh2eP4HVkyjtpcqeITk3Q,Ollie's Noodle Shop & Grille,2705 Broadway,"{'latitude': 40.79942, 'longitude': -73.96868}",172,3,10025,chinese
+-2FAuHbWsc_rxuSaeYAhCw,Green Garden Village,216 Grand St,"{'latitude': 40.7190136, 'longitude': -73.9959638}",58,4.5,10013,chinese
+gQ6DNeLNWQV-zwWyuFeBpg,No. 1 Chinese Restaurant,10 S William St,"{'latitude': 40.7046671846472, 'longitude': -74.0105490435282}",159,3,10004,chinese
+MzA6gitJKqfW4VrdS7AiQw,PACIFIC MOON,59-02 Broadway,"{'latitude': 40.75119, 'longitude': -73.90269}",90,4,11377,chinese
+OWALknbRruLyO8KFPATf_Q,New Jin Shing,1794 Broadway,"{'latitude': 40.682073, 'longitude': -73.909389}",34,4,11207,chinese
+EFihj7vsRRXiF5la-UURyw,Hop Kee,21 Mott St,"{'latitude': 40.714458, 'longitude': -73.998889}",795,3.5,10013,chinese
+KSleHGTG1yL1E7OEFFPoNQ,LaoMa Spicy,58 E 8th St,"{'latitude': 40.73089, 'longitude': -73.99343}",168,4,10003,chinese
+KBZQN540Xz6LbXLRVOMc0w,Hunan Delight,1467 York Ave,"{'latitude': 40.770678, 'longitude': -73.951296}",187,3.5,10075,chinese
+croh2zWlbPyCQTNS11klcg,China River 川聚院,258 W 44th St,"{'latitude': 40.7581711239604, 'longitude': -73.9883149042726}",204,4,10036,chinese
+nI1UYDCYUTt23TpGxqnLKg,Buddakan,75 9th Ave,"{'latitude': 40.7422762672197, 'longitude': -74.0048000961542}",4022,4,10011,chinese
+w0pDi_iMZd5MqYQ7t5q1dQ,Christopher's Golden Woks,159 Christopher St,"{'latitude': 40.73284, 'longitude': -74.00836}",59,3.5,10014,chinese
+IgTNgGE0qvTjkmCUzrNwtQ,Michael & Ping's Modern Chinese Take-Out,437 3rd Ave,"{'latitude': 40.672501, 'longitude': -73.990177}",260,3.5,11215,chinese
+95bPhynOQ4bHoUqJJv6UEQ,Crop Circle,126 MacDougal St,"{'latitude': 40.73003, 'longitude': -74.00034}",46,4.5,10012,chinese
+AJKcsxpc9IthvhdEnfqogg,Good Chinese Restaurant,663 Knickerbocker Ave,"{'latitude': 40.6951122106303, 'longitude': -73.9116479761463}",158,4,11221,chinese
+rYw5rQbWRX9buZHZbxqWdA,Congee Village,100 Allen St,"{'latitude': 40.7187, 'longitude': -73.99031}",1601,3.5,10002,chinese
+SMrj71bWo1lomSbU8wXgyw,The Dolar Shop,55 3rd Ave,"{'latitude': 40.731032, 'longitude': -73.988569}",2,5,10003,chinese
+Qgv2vyUV-DwK8YwrhU-jtw,Lan Sheng Restaurant,128 W 36th St,"{'latitude': 40.7517141867087, 'longitude': -73.9883603449123}",166,4,10018,chinese
+gJXNSJ9VXTuCFmp_Kl9TVQ,Shanghai,1388 2nd Ave,"{'latitude': 40.768291, 'longitude': -73.958381}",106,4,10021,chinese
+WVsPyl-DGRu0O_rQYdIMVQ,The Best Sichuan,47 W 39th St,"{'latitude': 40.75266, 'longitude': -73.98459}",50,4,10018,chinese
+X4hEgOBOLTYFhlWO-gAFxQ,Tipsy Shanghai,228 Thompson St,"{'latitude': 40.72929, 'longitude': -73.99882}",209,4,10012,chinese
+l44CFBTejwL0ElKmkH7xQQ,Decoy,529 Hudson St,"{'latitude': 40.734196, 'longitude': -74.006519}",425,4,10014,chinese
+wurhcLKXD4YJ5XfTxpbE5Q,Grand Sichuan,229 9th Ave,"{'latitude': 40.747413, 'longitude': -74.001052}",456,3.5,10001,chinese
+RkcQl4uEJWblWf4xX8ssqQ,Wa Jeal Sichuan Chili House,1588 2nd Ave,"{'latitude': 40.77536, 'longitude': -73.95317}",411,3.5,10028,chinese
+I_Va7AZSHpEwX75S-3hHLQ,Noodle Fun,1744 1st Ave,"{'latitude': 40.7795333862305, 'longitude': -73.9470367431641}",150,4,10128,chinese
+3fBiB3slTfBpmf39vD7sJw,Jade Garden,4028 Broadway,"{'latitude': 40.841846, 'longitude': -73.938944}",88,3.5,10032,chinese
+hNLfVfnhexy7qegeYY6tkQ,Panda Chinese Restaurant,73-03 Yellowstone Blvd,"{'latitude': 40.717395, 'longitude': -73.8569718}",55,3.5,11375,chinese
+bDsXyYwzk4I9_7l51D_gaA,Cafe Evergreen,1367 1st Ave,"{'latitude': 40.76891, 'longitude': -73.9556}",181,3.5,10021,chinese
+Dqp5Itsj9dN0Ewz8Gm853g,Philippe Downtown,355 W 16th St,"{'latitude': 40.74213, 'longitude': -74.0038}",96,4,10011,chinese
+U5dCWjAxrvLLMH1ErpGfvw,A-jiao,1817 2nd Ave,"{'latitude': 40.783159, 'longitude': -73.948244}",133,3.5,10128,chinese
+iKW9zBGWfE9CM6MfK0UtjA,Fong On,81 Division St,"{'latitude': 40.71417, 'longitude': -73.9937}",133,4.5,10002,chinese
+VIur-OanRPkNvbo9rXRlEQ,East Wind Snack Shop,253 Smith St,"{'latitude': 40.683141, 'longitude': -73.992686}",30,4,11231,chinese
+QBhHq4eN7rtFzmDUciVL-Q,King Wok,222 Varick St,"{'latitude': 40.72904, 'longitude': -74.0050399}",141,3.5,10014,chinese
+G8X7pC73zCRUxRPo1ULnQA,King's Wok Kitchen,261 Troy Ave,"{'latitude': 40.6702712127592, 'longitude': -73.9362669759561}",4,4.5,11213,chinese
+nXh79laNQ7leN92F5Ore-Q,Forever Taste,27 Rutgers St,"{'latitude': 40.71294, 'longitude': -73.98979}",43,4,10002,chinese
+TbbpihlBxYidyE_O65Ajbw,Hay Hay Roasted,81 Mott St,"{'latitude': 40.71663080185816, 'longitude': -73.9981349}",6,4.5,10013,chinese
+nAcVK-Y1_ojsRF_04o-x-A,Yin Ji Chang Fen Rice Roll,91 Bayard St,"{'latitude': 40.71583, 'longitude': -73.999336}",226,4,10013,chinese
+GGRMY-twaqZf_NIAprBJkg,Junzi Kitchen,135 W 41st St,"{'latitude': 40.754886, 'longitude': -73.985688}",130,4,10036,chinese
+vWEKZVPIYFewfqCOkkvVIQ,Lin's Garden,652 Seneca Ave,"{'latitude': 40.7034531, 'longitude': -73.9090729}",49,3.5,11385,chinese
+VbFYau70iG_s6UNFwYtGVQ,Xu's Public House,15 Union Square W,"{'latitude': 40.73589, 'longitude': -73.9917}",107,4,10003,chinese
+cGSLzPA_SCWrN3cyT86Nhw,Dun Huang - Upper West,1268 Amsterdam Ave,"{'latitude': 40.81106, 'longitude': -73.95818}",80,3.5,10027,chinese
+xOL2SC34gdhKHSbyaDz9BA,Pearls,796 Amsterdam Ave,"{'latitude': 40.7958833, 'longitude': -73.9692167}",154,3,10025,chinese
+2lJbbTUnkfdUIaeii7mx4Q,The New People Kitchen,1505 Fulton St,"{'latitude': 40.68016, 'longitude': -73.94111}",20,3.5,11216,chinese
+pMgk7E6bCG5Aj2sLuowobw,Golden Chopstick,789 Franklin Ave,"{'latitude': 40.6718339, 'longitude': -73.957229}",74,3.5,11238,chinese
+oe8GEFE4QLFAKt87y7zcgA,Very Fresh Noodles,409 W 15th St,"{'latitude': 40.74207, 'longitude': -74.00565}",1026,4.5,10011,chinese
+DKGUSLiqNchBNatKoPM9QQ,Junzi Kitchen,2896 Broadway,"{'latitude': 40.8057641877461, 'longitude': -73.9652019005902}",192,4,10025,chinese
+cCHkQ5oISNafWnLoBpsagg,Yue Wong Restaurant,60 Bayard St,"{'latitude': 40.715546, 'longitude': -73.99774}",8,4.5,10013,chinese
+zubN8Ve-RyoljRZV4NRxEQ,Wo Hop,17 Mott St,"{'latitude': 40.7142239034582, 'longitude': -73.9988691693115}",1473,3.5,10013,chinese
+lmiwPS9tl3cyMDGDeVstqQ,New Apolo,508 Grand St,"{'latitude': 40.71078, 'longitude': -73.95076}",148,3.5,11211,chinese
+XoxEVVf5Ci8nibQ-Q4P0nQ,Chinese Musician Restaurant,151 Greenpoint Ave,"{'latitude': 40.73042, 'longitude': -73.9537321}",137,3,11222,chinese
+H1jops1lmuhrq9lP7lEGJQ,Flor De Mayo,484 Amsterdam Ave,"{'latitude': 40.78609, 'longitude': -73.97658}",1197,4,10024,chinese
+XjPfgkSP-RDEkq_ox8fE3A,King's Chef,4311 28th Ave,"{'latitude': 40.764358, 'longitude': -73.910705}",56,3.5,11103,chinese
+a52GUjv7jYD3Baa0Ltbytw,Golden Dragon Kitchen,394 Metropolitan Ave,"{'latitude': 40.7139499, 'longitude': -73.95519}",22,3.5,11211,chinese
+agCuWjaUJ8xBO_PDDQRiGw,S Wan Cafe 洋紫荆,85 Eldridge St Lower E,"{'latitude': 40.71725, 'longitude': -73.99254}",127,4.5,10002,chinese
+FFKUWNdzq1ObyGBDDLqckg,Xi'An Town,165 Bedford Ave,"{'latitude': 40.71841, 'longitude': -73.95694}",72,3.5,11211,chinese
+2J3--ZI6CcoYLWSYYVdt7Q,Milu,333 Park Ave S,"{'latitude': 40.741084, 'longitude': -73.985324}",44,4.5,10010,chinese
+3OT1deSiIYhrcXWJ1sD3wA,Shui Mei Cafe,67 E Broadway,"{'latitude': 40.7135318, 'longitude': -73.9948386}",42,4.5,10002,chinese
+XaEFFUabnbH8ZF7ccmSAlQ,South Of The Clouds,16 W 8th St,"{'latitude': 40.73264, 'longitude': -73.99752}",219,4,10011,chinese
+zZkplEhRoGcsDxPgXpxEdQ,New Hong Kong House,1222 Cortelyou Rd,"{'latitude': 40.64009, 'longitude': -73.96632}",21,3.5,11218,chinese
+OX2B4KARPKNTxC39wpcqDA,A & C Kitchen,136 Avenue C,"{'latitude': 40.72501, 'longitude': -73.978}",35,3.5,10009,chinese
+SMImQM_JfZkIZwflTgOAoQ,Yi Ji Shi Mo Noodle Corp,88 Elizabeth St,"{'latitude': 40.71824, 'longitude': -73.99583}",127,4.5,10013,chinese
+jwKPVep2qZYBUA6SLLQPvg,Legend 72,127 W 72nd St,"{'latitude': 40.77796, 'longitude': -73.9796901}",242,3.5,10023,chinese
+lgS9lE0Y9FhzT68zCj5QCw,Hunan Bistro,96 3rd Ave,"{'latitude': 40.73234, 'longitude': -73.9881}",219,3.5,10003,chinese
+QGldR7s9_qV_35iGtkcNyA,Asia Harbor,402 Church Ave,"{'latitude': 40.643948, 'longitude': -73.9763473}",108,4,11218,chinese
+R3UNnA8EbjhNWBHS0wJ0VA,Grand Sichuan Eastern,1049 2nd Ave,"{'latitude': 40.75831, 'longitude': -73.96636}",254,3.5,10022,chinese
+uaFHoq-a5XqxF-bsOK9_Qg,Real Kung Fu Little Steamed Buns Ramen,811 8th Ave,"{'latitude': 40.7616286634162, 'longitude': -73.9868181646996}",1018,3.5,10019,chinese
+2rSmA4IK51QAQj60YGvjnw,New Asian Cuisine,44-20 48th Ave,"{'latitude': 40.7393524, 'longitude': -73.9210213}",35,3.5,11377,chinese
+k8GFfCXO2FIIJIo0ICYSRA,Bao Bao Cafe,106 Greenwich St,"{'latitude': 40.70854, 'longitude': -74.01367}",199,4,10006,chinese
+5u4T6-Z-KhHrRZ9g54pugQ,Carol's Bun,139 E Broadway,"{'latitude': 40.7138317002555, 'longitude': -73.9914554524045}",39,4,10002,chinese
+9HD5HQiTkURkx5i7hL92EA,Spicy Moon West Village,68 W 3rd St,"{'latitude': 40.729318, 'longitude': -73.99832}",71,5,10012,chinese
+KEWIhmU2R2kZH3BtARkWlg,Nuan Xin Rice Roll,67A Eldridge St,"{'latitude': 40.71662, 'longitude': -73.99286}",18,4,10002,chinese
+1jAB_uaI8-P_wSqOo2S3KQ,Mazu Szechuan Cuisine,495 3rd Ave,"{'latitude': 40.745234, 'longitude': -73.97812}",21,5,10016,chinese
+2UmeXoBQ6zRNn0Zv_VcAjw,JiangNan 江南食府,133-42 39th Ave,"{'latitude': 40.759239, 'longitude': -73.83256}",78,4.5,11354,chinese
+ipv4lBvbfVzCnSahqrJckQ,Little Pepper,18-24 College Point Blvd,"{'latitude': 40.78245, 'longitude': -73.84618}",322,4,11356,chinese
+fLq5j4fkFmPD6I2tt6dSWQ,100% Mr. Lin,445 Albee Square W,"{'latitude': 40.69121, 'longitude': -73.98331}",20,3.5,11201,chinese
+kWJF8L1u5jdlkLBItUu16w,Bo Ky Restaurant,80 Bayard St,"{'latitude': 40.71579, 'longitude': -73.99867}",764,3.5,10013,chinese
+ApjmgPwYXgrb0JurjQZO4w,Fortune Cookie Chinese Kitchen,611 Manhattan Ave,"{'latitude': 40.72338, 'longitude': -73.9507}",46,3.5,11222,chinese
+wdGMVLUzocmnl2tST0lheg,YunShang Rice Noodle House,53 Bayard St,"{'latitude': 40.71525, 'longitude': -73.99765}",195,4,10013,chinese
+dpCSDy9uefOEcY44FHss2Q,Hyo Dong Gak,51 W 35th St,"{'latitude': 40.7501219, 'longitude': -73.9862269}",410,3.5,10001,chinese
+AlI7c_m9flexz49nzgam2g,Bo Hai Dumpling Town,217 E Broadway,"{'latitude': 40.714058, 'longitude': -73.987381}",6,5,10002,chinese
+3DmJv5rHFNyQykaUiXBOvA,Hop Lee Kitchen,992 Manhattan Ave,"{'latitude': 40.7329099, 'longitude': -73.95455}",43,3.5,11222,chinese
+AbfZkSRMtiHE3naWrN-0Eg,Fei Ma,79 Ave A,"{'latitude': 40.725114, 'longitude': -73.9845239}",52,3.5,10009,chinese
+S5VN-lFmTdI5VVQ0qFyfCQ,Fortune Place,286 Broadway,"{'latitude': 40.70849, 'longitude': -73.9585}",16,3.5,11211,chinese
+B7bxdtvLYR7Nmex4AIFd4w,RedFarm,2170 Broadway,"{'latitude': 40.782051, 'longitude': -73.980415}",623,3.5,10024,chinese
+E7q1Qf6380N_aMqz28EgNw,Duckedup,139 Ludlow St,"{'latitude': 40.7205, 'longitude': -73.98826}",4,4.5,10002,chinese
+IkOW8jcaFYOll4albHitLw,Lotus + Cleaver,28-17 Jackson Ave,"{'latitude': 40.748650977899594, 'longitude': -73.93829307763797}",12,4.5,11101,chinese
+JaKLZrh1Y_2qB_0Gc3bk3A,Ollie's Sichuan,411 W 42nd St,"{'latitude': 40.75884, 'longitude': -73.99319}",505,3.5,10036,chinese
+4WyXnioHqTIcaFFN_TS1Vw,Ling Long Xuan Restaurant,586 Newark Ave,"{'latitude': 40.73237, 'longitude': -74.0569}",161,4,7306,chinese
+A-ert0jDRBfku9ogyW_mEg,Spice Symphony,150 E 50th St,"{'latitude': 40.7558937072754, 'longitude': -73.9715347290039}",508,4.5,10022,chinese
+aZMVSzm1ypJOkRsLVaMUVA,New Chin Chin Wu Restaurant,1615 Church Ave,"{'latitude': 40.64904, 'longitude': -73.96446}",8,4.5,11226,chinese
+rBUTVjRs5CcEMe3dfVRZJQ,Ho Foods,110 E 7th St,"{'latitude': 40.72634, 'longitude': -73.98478}",303,4,10009,chinese
+RUnj4RTVOSbbHE5zyguhrg,No 1 Flower Drum House,21-05 31st St,"{'latitude': 40.777674, 'longitude': -73.908463}",93,3.5,11105,chinese
+joSU4pnYVMhAuZ6ccaqqdA,E Noodle,8619 5th Ave,"{'latitude': 40.6209179356014, 'longitude': -74.0264879105497}",219,4,11209,chinese
+Ex_qolTE5syJ8so0NscfGw,King Wah,21-04 Newtown Ave,"{'latitude': 40.7719699594225, 'longitude': -73.9257651953376}",44,3.5,11102,chinese
+oDuhB0Nkc3qieg26OjFsHA,Steam House,76 Forsyth St,"{'latitude': 40.71722, 'longitude': -73.993186}",3,5,10002,chinese
+yvdaxotCYEt9HNt7GbERJw,Number One Chinese Kitchen,661 Nostrand Ave,"{'latitude': 40.674536, 'longitude': -73.949873}",34,3,11216,chinese
+b03GEE_pYlLCdD6yShZKqw,New Chinatown Restaurant of New York,11 Avenue D,"{'latitude': 40.720527, 'longitude': -73.978652}",12,4,10009,chinese
+G9uSeXMXv6QB8ZEQeOhYVA,Good Friend 1,1376 Nostrand Ave,"{'latitude': 40.65314, 'longitude': -73.9499699}",22,3.5,11226,chinese
+F2KRHRtnIAZJezs9UC2u6w,Chelsea Golden Wok,209 8th Ave,"{'latitude': 40.74401, 'longitude': -73.999824}",59,3,10011,chinese
+bzr6GEQyjpgbkhHAsYaljQ,Randy's Chinese Food,1693 Putnam Ave,"{'latitude': 40.700336, 'longitude': -73.906774}",56,3,11385,chinese
+Xf6e3HaP0AgMBxY7dEDkOA,99 Favor Taste,285 Grand St,"{'latitude': 40.7176199, 'longitude': -73.99249}",1877,4,10002,chinese
+y-c0jyeEoCotVLPrT8iI7A,Chen Yuan Chinese Food,714 Knickerbocker Ave,"{'latitude': 40.6942395539858, 'longitude': -73.9105729000734}",15,4,11221,chinese
+PUwrkoUztUYs4VdHlK9qBg,Wa Lung Kitchen,557 Grand St,"{'latitude': 40.713919, 'longitude': -73.980251}",67,3,10002,chinese
+wzmeaMTm5cZ1JCjep7iQeA,ZLS BBQ,219 E 23rd St,"{'latitude': 40.73852, 'longitude': -73.98201}",12,4.5,10010,chinese
+oowNI_aUmGEFa_VW8BFgRg,Tri Dim Shanghai,1378 3rd Ave,"{'latitude': 40.773951, 'longitude': -73.957927}",412,4,10075,chinese
+hNFe8WhCibrqT4sFcZmAgw,Kong Sihk Tong 港食堂,65 Bayard St,"{'latitude': 40.71542, 'longitude': -73.99813}",285,4,10013,chinese
+FMwu9h0KUl3mFDuE-WDbcw,Guan Fu Sichuan,39-16 Prince St,"{'latitude': 40.759112, 'longitude': -73.832271}",212,4,11354,chinese
+Ej-hrhc8HFWfijN4X5akOg,Dim Sum Palace,33 W 33rd St,"{'latitude': 40.7486, 'longitude': -73.98676}",106,4,10001,chinese
+pb_cHcy8D8UC-jQ-Q524ug,Som Bo,143 8th Ave,"{'latitude': 40.74192, 'longitude': -74.00136}",226,4,10011,chinese
+s5JNxy0eAFgxS2Poi73ODw,Mala Project,41 W 46th St,"{'latitude': 40.756899, 'longitude': -73.980586}",348,4,10036,chinese
+O8-3tePMQIB4Kv_-JCrM9g,PO Lee Chinese Restaurant,301 Malcolm X Blvd,"{'latitude': 40.681767, 'longitude': -73.928535}",7,4,11233,chinese
+FH978pIP1TLRuPAH-MbWIQ,Jing Fong Restaurant,20 Elizabeth St,"{'latitude': 40.7159552385198, 'longitude': -73.9971831076206}",2390,3.5,10013,chinese
+WRPJeH3goSpj5ke3Pkrnfw,Burp Bowl Cafe,134 E 27th St,"{'latitude': 40.74183, 'longitude': -73.98271}",225,4.5,10010,chinese
+vLPC4i4StmkyKLe2LrQX-A,New Cheung Lee Kitchen,108 Kingston Ave,"{'latitude': 40.676, 'longitude': -73.94172}",6,4,11213,chinese
+wxUTM-FkpCvnoTGJfSXkWg,China King,285 3rd Ave,"{'latitude': 40.738249, 'longitude': -73.983329}",41,3,10010,chinese
+7FeUdDizBscZueMDaKdjGQ,Ellie's Chinese Restaurant,1570 2nd Ave,"{'latitude': 40.77493, 'longitude': -73.95366}",3,3,10028,chinese
+ovOupYdkZOWUeDMOdt--ng,China North Dumpling,27 Essex St,"{'latitude': 40.7158, 'longitude': -73.9898}",312,4,10002,chinese
+85wkGMKbHV0RdTGIWpep5A,Zen Pot,242 W 56th St,"{'latitude': 40.765612, 'longitude': -73.982937}",7,4.5,10019,chinese
+bSi2f2TaOr4RVTI5eFt0wQ,Taste Of North China,75 Montgomery St,"{'latitude': 40.7167868, 'longitude': -74.0377625661521}",232,3,7302,chinese
+ybQV8joopvU1_gG2RwLRog,Wok City,153 Amsterdam Ave,"{'latitude': 40.7752417820046, 'longitude': -73.983876645396}",90,3,10023,chinese
+EV2grf7NhNHQTmBXfu1-NA,Dragon Gate Chinese Cuisine,1944 37th St,"{'latitude': 40.778622, 'longitude': -73.9026148701016}",26,4,11105,chinese
+NmJ2xtfZrscfWB_a5wEbXQ,Home's Kitchen Chinese Restaurant,22 E 21st St,"{'latitude': 40.73944, 'longitude': -73.98912}",183,3.5,10010,chinese
+STx4mlpKJVrjd6eZu4yDIw,Heng Thai,23-06 Jackson Ave,"{'latitude': 40.74491469312005, 'longitude': -73.94774386999885}",7,4.5,11101,chinese
+U74_3F7r3tMhd6dmTmDBxQ,Macao Trading,311 Church St,"{'latitude': 40.719623, 'longitude': -74.003904}",759,4,10013,chinese
+x3_DaW2lWCNovheuZV_nAw,Private Kitchen,3635 Main St,"{'latitude': 40.7623534688139, 'longitude': -73.8313450503319}",78,4,11354,chinese
+tS4aiWBYgzlqKX898jr3_w,Shun Wang Restaurant,81-25 Broadway,"{'latitude': 40.7431373596191, 'longitude': -73.8830413818359}",171,3.5,11373,chinese
+YzyHW3w0HUyaG8EvplNT1A,Liu's Shanghai,1869 Bath Ave,"{'latitude': 40.6026411895768, 'longitude': -74.0038766549142}",387,4.5,11214,chinese
+QDApjjZAPxFvvbll86NMTA,Hak Box,88 E Broadway,"{'latitude': 40.714, 'longitude': -73.99439}",69,4.5,10002,chinese
+U9bU_xY11bu88lYZwnMVfQ,Broadway China Station,3212 31st St,"{'latitude': 40.7616886, 'longitude': -73.9258757}",40,3.5,11106,chinese
+6KQ-jlXjOgb_uVeZxgimqQ,Hua Long Chinese Restaurant,706 Fulton St,"{'latitude': 40.6857872009277, 'longitude': -73.9737319946289}",28,3.5,11217,chinese
+yNk043q6XT2HmiL_CcJqVQ,New Sunny Chinese Food,69 Utica Ave,"{'latitude': 40.6766935252582, 'longitude': -73.9302539892331}",12,3.5,11213,chinese
+uPqLa_H1tr3QTwJNPoVqYQ,Spring Garden,8706 5th Ave,"{'latitude': 40.62077, 'longitude': -74.02703}",29,4,11209,chinese
+kHlYnhMOoMBbe3VCZflpKQ,Spy C Cuisine,72-06 Austin,"{'latitude': 40.71903, 'longitude': -73.84249}",238,4,11375,chinese
+VQ5YGa4L4AT3ugF61hM9qQ,Zongzi lady,Chrystie St Grand St,"{'latitude': 40.7181661, 'longitude': -73.9938466}",40,4.5,10002,chinese
+xBTqo83cgF4TvCjKFjlwqQ,La Dinastia II,4059 Broadway,"{'latitude': 40.8431911, 'longitude': -73.9393521}",66,3,10032,chinese
+d6i6sGHtPmyUkHze5S1lIQ,Hunan House I,382 Summit Ave,"{'latitude': 40.72857, 'longitude': -74.06242}",46,4,7306,chinese
+VG0XPr9jSrgd8p5WPD1HaQ,Ollies To Go,307 E 77th St,"{'latitude': 40.771918, 'longitude': -73.955451}",60,3.5,10075,chinese
+Ece_DRuD1yQjRPJBAebRpw,Kung Fu Little Steamed Buns Ramen,146 E 55th St,"{'latitude': 40.7592514705491, 'longitude': -73.9694294705987}",324,3.5,10022,chinese
+MdDj13LgIs0WdbIdiyqB7Q,Pinch Chinese,177 Prince St,"{'latitude': 40.72645, 'longitude': -74.0018}",363,3.5,10012,chinese
+GJZnf3B-ADjlCV1NXsHvGQ,Tang's Garden,1328 3rd Ave,"{'latitude': 40.7722574, 'longitude': -73.9589547}",100,3,10021,chinese
+m4Q7Te--vJwBPi6j1_1mfg,XIN,8320 3rd Ave,"{'latitude': 40.62518, 'longitude': -74.03067}",95,3.5,11209,chinese
+7_Dwf153h3_waVtmfYd8QQ,Grand Sichuan NY II,98-108 Queens Blvd,"{'latitude': 40.7274381816387, 'longitude': -73.8557088375092}",231,4,11374,chinese
+cWPdP8_GqEWxZKRiOonfDg,Di Di Restaurant,2318 Nostrand Ave,"{'latitude': 40.62813, 'longitude': -73.94729}",38,4,11210,chinese
+IQ91FltwJmIPhS6fKKf2pw,China 1 Kitchen,609 Main St,"{'latitude': 40.7632023290684, 'longitude': -73.9490040654764}",56,3,10044,chinese
+-7PgxPVUGZh__U3CxRFKxg,Trinidad Golden Place Restaurant,788 Nostrand Ave,"{'latitude': 40.6718291030037, 'longitude': -73.950525317791}",138,4.5,11216,chinese
+Ckz_1t4nUoFf2Yw-uuK4jQ,Mr Chen,5905 Myrtle Ave,"{'latitude': 40.70068, 'longitude': -73.8999599}",69,3,11385,chinese
+hDrPCldN8HJoQfK2a6t_uA,403 Restaurant,403 Church Ave,"{'latitude': 40.644306, 'longitude': -73.976409}",22,4,11218,chinese
+UJtUaOXnwtQA1rb-4BHsCg,Hai Sun Chinese Restaurant,651 Flatbush Ave,"{'latitude': 40.6575736999512, 'longitude': -73.9600143432617}",42,3,11225,chinese
+AfF4zVbVI27zwgkzOLYDFg,Xi'an Famous Foods,648 Manhattan Ave,"{'latitude': 40.7243301734731, 'longitude': -73.9509299397469}",223,4,11222,chinese
+ZYWwYSXWyDlVYIjPgXmIQA,East Garden,32-10 36th Ave,"{'latitude': 40.7560263, 'longitude': -73.9285962}",50,3.5,11106,chinese
+ehNeUb95vEGMNvk3tZVpPQ,Empire Chinese Restaurant,1635 St Nicholas Ave,"{'latitude': 40.856115, 'longitude': -73.929076}",9,3.5,10040,chinese
+EDLKX7cCxPbmbmo1XG3xJQ,Grand Sichuan,342 Grove St,"{'latitude': 40.72047, 'longitude': -74.04252}",465,3,7302,chinese
+a5Ei7GYvlXCDv-j3q1lBLg,China Delight,722 4th Ave,"{'latitude': 40.661844, 'longitude': -73.996885}",21,4,11232,chinese
+P2bxlKAmRWZIpHdJ_JT3fg,East Harbor Seafood Palace,714 65th St,"{'latitude': 40.633533, 'longitude': -74.014343}",688,4,11220,chinese
+zb78ua-FlfFRj8v082giBw,Jimmy's House,162 E 25th St,"{'latitude': 40.74016, 'longitude': -73.98256}",127,3.5,10010,chinese
+_WXa2M3gz2Mi0ys3s88nDw,La Salle Dumpling Room,3141 Broadway,"{'latitude': 40.81407, 'longitude': -73.959833}",263,4,10027,chinese
+e-6UcplEErq2Hj14-eiM6Q,China King,1759 Lexington Ave,"{'latitude': 40.794303, 'longitude': -73.944572}",38,3.5,10029,chinese
+poRWXhCG1-mVxs1kuw_ZEg,Red Hot Szechuan,349 7th Ave,"{'latitude': 40.666088, 'longitude': -73.98191}",189,3.5,11215,chinese
+L37A2JWXfwR_PgKColA8xA,Big Wong,67 Mott St,"{'latitude': 40.71624, 'longitude': -73.99842}",1451,3.5,10013,chinese
+BPErPpKSNluwcjbKRgze3w,Xi'an Famous Foods,328 E 78th St,"{'latitude': 40.77197, 'longitude': -73.95452}",539,4,10075,chinese
+UiBQ8Uyu4wfOtEM1Rr8ycA,Shanghai Asian Cuisine,14A Elizabeth St,"{'latitude': 40.7159077, 'longitude': -73.997383}",501,4,10013,chinese
+XmycF9-fpEPlgMe8_qgJrQ,Lucky Eight,5204 8th Ave,"{'latitude': 40.639961, 'longitude': -74.00509}",208,4,11220,chinese
+MYPes7EWP5aLiVG1Z_9eFQ,Jing Fong,380 Amsterdam Ave,"{'latitude': 40.7827096147799, 'longitude': -73.9789128775797}",213,3,10024,chinese
+xi_QX5uArqDM4LeL4WIv1Q,Li's Kitchen,2515 Williamsbridge Rd,"{'latitude': 40.8634617, 'longitude': -73.8584642}",35,4,10469,chinese
+nrPfcOC4mGnEL-9CpoGhMg,Ming's Caffe,28 Canal St,"{'latitude': 40.714321, 'longitude': -73.990509}",125,4,10002,chinese
+YIwYw_A_LRwK66HBTzogYQ,Xing's Chef,46-20 Ditmars Blvd,"{'latitude': 40.7701092079077, 'longitude': -73.9021204913637}",84,4,11105,chinese
+PBh9J_5HF8dtg2MTTUqVnw,Autumn Asian Restaurant,349 Flatbush Ave,"{'latitude': 40.677148, 'longitude': -73.9721409}",48,3.5,11238,chinese
+PphgRM2pDtbAB6pBsU6r3Q,Zhangs Garden,1661 St Johns Pl,"{'latitude': 40.670394, 'longitude': -73.921791}",4,4.5,11233,chinese
+tDYk6DmmU3buWBs9G0NBXQ,China Restaurant,937 Utica Ave,"{'latitude': 40.650260925293, 'longitude': -73.929931640625}",68,4,11203,chinese
+PQSrlPW8BGZr8AsgCxVcWQ,Weng Garden,872 Hancock St,"{'latitude': 40.685707, 'longitude': -73.920722}",14,4,11233,chinese
+PwIMIWCzL7tlOVb-v0_RKw,Emperor House,767 Forest Ave,"{'latitude': 40.62925, 'longitude': -74.11467}",20,4,10310,chinese
+b7uTP_afs5Gkf66K7yDl-w,Food King,56 Market St,"{'latitude': 40.71173, 'longitude': -73.99401}",16,3.5,10002,chinese
+T6C8ypkaLU5dfRR9j0DVFw,Northern Dumpling House,83-05 Broadway,"{'latitude': 40.74115, 'longitude': -73.87963}",1,5,11373,chinese
+dv-RaOwKFizDe4c5-sVJ5w,Peking BBQ,58-11 Woodside Ave,"{'latitude': 40.7457277, 'longitude': -73.9062112}",255,4,11377,chinese
+h3yz3w8ke1jIaGnqGln93A,Sun Wah Restaurant,3016 36th Ave,"{'latitude': 40.756608, 'longitude': -73.930066}",46,3.5,11106,chinese
+l1nX-f46dmOEmYPoiuLSaw,Peking Duck House,236 E 53rd St,"{'latitude': 40.756912, 'longitude': -73.968109}",465,3.5,10022,chinese
+rg81bHp68jmuajBaOqVR0A,C H F Chinese Restaurant,5411 5th Ave,"{'latitude': 40.64252631252172, 'longitude': -74.01268994031366}",4,5,11220,chinese
+eQKYZWnBjPUjINAnFmrmbA,P.F. Chang's,10 Port Imperial Blvd,"{'latitude': 40.7802677928232, 'longitude': -74.0095958081818}",471,2.5,7093,chinese
+6qR5GGsP8BkyMfOY3dpmmw,Peking Garden,362 Wilson Ave,"{'latitude': 40.69498, 'longitude': -73.91616}",9,3.5,11221,chinese
+AFidVhcRHCmlk6YxgRlO2Q,Golden Fountain Kitchen,11616 Metropolitan Ave,"{'latitude': 40.707262693702, 'longitude': -73.8350343704224}",114,3.5,11418,chinese
+rkeH5HJIuX7ZcOaYNum9xA,Wu's Wonton King,165 E Broadway,"{'latitude': 40.7139415501646, 'longitude': -73.9899386554248}",295,3.5,10002,chinese
+3cjw6qOQe5Qf_l_SciOfcQ,Yummy 88,130 Wilson Ave,"{'latitude': 40.70066519678717, 'longitude': -73.926149}",21,3,11237,chinese
+hdiQrGDT8enOzpxaipBzNA,Mee Noodle Shop & Grill,223 1st Ave,"{'latitude': 40.7309882, 'longitude': -73.983084}",130,3,10003,chinese
+sGwQYKPaMJ-tD2E4fQ0EJQ,Jardin De China,3737 Jct Blvd,"{'latitude': 40.750672, 'longitude': -73.869982}",236,4,11368,chinese
+fa5a7jksUak7yleWLWMigg,Joe’s Steam Rice Roll,261 Canal St,"{'latitude': 40.7190194496717, 'longitude': -74.0008207038045}",294,4,10013,chinese
+cQRQXI3-B5eGFCi_aj1IyQ,Golden City Chinese Restaurant,2545 Amsterdam Ave,"{'latitude': 40.8513247, 'longitude': -73.9283376}",12,4.5,10033,chinese
+ieOIBz6Gfqmwm1B0wUzh9g,Mama Lee,213-12 48th Ave,"{'latitude': 40.755368, 'longitude': -73.767415}",503,4.5,11364,chinese
+RQRQOO_CGhj16AIz4KqlQA,Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei,88 E Broadway,"{'latitude': 40.713837, 'longitude': -73.99414}",28,4.5,10002,chinese
+pjbMNd88LRNxvrwaO8kEhQ,New Apollo II,1477 Myrtle Ave,"{'latitude': 40.6991691589355, 'longitude': -73.9166564941406}",59,3.5,11237,chinese
+TV8v5BQXMprtMwhkUXjLdw,Hong Kong Kei One,4207 Hylan Blvd,"{'latitude': 40.5376089, 'longitude': -74.1503651}",95,4.5,10308,chinese
+lkWcA6W73HDgogF5D104-w,Grand Shanghai House,9 Pell St,"{'latitude': 40.714603, 'longitude': -73.997787}",40,4.5,10013,chinese
+yj9vVa08ABH6BBOLHMfJag,Bund On Broadway,25-08 Broadway,"{'latitude': 40.7631578922095, 'longitude': -73.9282292}",220,4,11106,chinese
+6LfskUyZzmcDSV6h5kOwGw,Peking Duck House,28 Mott St,"{'latitude': 40.71461, 'longitude': -73.99871}",863,3.5,10013,chinese
+_f6jjUliJY8IVrgkcgG_zw,Lee Good Taste,2686 Pitkin Ave,"{'latitude': 40.6751870148044, 'longitude': -73.8729380071163}",15,4.5,11208,chinese
+qGgQMVExGERqGhZNDM2ROg,Wu Liang Ye,36 W 48th St,"{'latitude': 40.75781, 'longitude': -73.97994}",508,3.5,10036,chinese
+YfJZBmm9tfW--W_WIGReqA,Baili Restaurant,2728 Church Ave,"{'latitude': 40.65047, 'longitude': -73.951484}",34,4,11226,chinese
+ePVlFbTzdVQFWie__kdplg,Main Noodle House,1011 6th Ave,"{'latitude': 40.752143, 'longitude': -73.986396}",414,3.5,10018,chinese
+tguMh2GgOcU9fu6WN3dqpw,The Original Buddha Bodai Kosher Vegetarian Restaurant,5 Mott St,"{'latitude': 40.7138543, 'longitude': -73.9989484}",1027,4,10013,chinese
+bMAsaXIDMActYCYCw0HcCQ,No 1 Chinese Restaurant,825 W 181st St,"{'latitude': 40.8513816, 'longitude': -73.9394706}",118,3.5,10033,chinese
+rhEfNtVrckQj-Ns44OBHgA,86 Noodles,8608 4th Ave,"{'latitude': 40.6226399, 'longitude': -74.02878}",209,3.5,11209,chinese
+2DlAPX4KBG8e7veOWYR6DQ,New Hardee Chinese Restaurant,835 Dekalb Ave,"{'latitude': 40.69244, 'longitude': -73.94299}",32,3.5,11221,chinese
+vdZaeSDbsWd_JeNqt92NmA,Yang Kee 1 Chinese,7501 101st Ave,"{'latitude': 40.679894, 'longitude': -73.862278}",13,3,11416,chinese
+q2bIyvU8CQwiB6xe_iVs0g,Fan Fried Rice Bar,525 Dekalb Ave,"{'latitude': 40.69099, 'longitude': -73.95587}",85,4.5,11205,chinese
+qu3niqEXOUdNxCCXnSPBYg,Xi'an Famous Foods,313 6th Ave,"{'latitude': 40.730996, 'longitude': -74.0018838}",102,4,10014,chinese
+czQm6Ull9V6b-64amhUMyA,Good Taste Restaurant,3371 Broadway,"{'latitude': 40.8214624, 'longitude': -73.9543845}",55,4,10031,chinese
+2rqb2T5IS2D7A6UB5QwNKw,Yun Nan Flavor Garden,5121 8th Ave,"{'latitude': 40.639996, 'longitude': -74.004509}",309,4,11220,chinese
+QaolMEijS7L6eodSneOdng,Tri Dim West,467 Columbus Ave,"{'latitude': 40.78412, 'longitude': -73.97368}",109,4,10024,chinese
+4OGtGzKP6fvRu7MfQMRSEQ,Hong Kong,1703 Lexington Ave,"{'latitude': 40.7926783064322, 'longitude': -73.9457814748688}",16,4,10029,chinese
+lgHmMRBaU-48kGaNz3jYxg,Chairman Sun 国色天湘,47-30 Vernon Blvd,"{'latitude': 40.74465, 'longitude': -73.95375}",196,3.5,11101,chinese
+Dj0jblwuWTftL1D7_Kun6Q,Noodles 28,417 3rd Ave,"{'latitude': 40.74261, 'longitude': -73.97997}",206,3,10016,chinese
+kNOr6_g6QfBHdhf89j3g5w,Taiwan Pork Chop House,3 Doyers St,"{'latitude': 40.71424, 'longitude': -73.99799}",475,4,10013,chinese
+y8JSKjpWeQg8vzm5wovOwQ,The Bund,100-30 Queens Blvd,"{'latitude': 40.7264404960967, 'longitude': -73.8532474276788}",269,3.5,11375,chinese
+Wu9AymEM_RM2cnRPslVlIw,East 21,71-26 Roosevelt Ave,"{'latitude': 40.7464685299281, 'longitude': -73.8940858840942}",83,3.5,11372,chinese
+dRKdRpPEo6rJ2X0RYbfZzQ,Golden Z,1410 Ave U,"{'latitude': 40.598533, 'longitude': -73.956928}",88,4,11229,chinese
+zPMSuQJRpXi11G_Tqv1LJQ,Mr. Wonton,78-05 Jamaica Ave,"{'latitude': 40.6919899, 'longitude': -73.8639984}",27,4,11421,chinese
+8ELR553JyleoJYtT19yNQg,Mei Mei Chinese Restaurant,3566 Nostrand Ave,"{'latitude': 40.5969532, 'longitude': -73.9413834}",13,4,11229,chinese
+hBbAmEYXM4L03AU9Vt_p9g,Hong Kong Station,157 W 47th St,"{'latitude': 40.75894, 'longitude': -73.98372}",126,3.5,10036,chinese
+4PG9npz7q_LP2H5LfDjWig,#1 Garden Chinese,221 Prospect Park W,"{'latitude': 40.660046, 'longitude': -73.980313}",61,3.5,11215,chinese
+dTZ-q8CwEDo9iVKM0tydnQ,Great Sichuan,363 3rd Ave,"{'latitude': 40.74082, 'longitude': -73.98127}",198,3.5,10016,chinese
+z6HMM_cSraJFkQFvSjWGDA,Lucky Chinese Restaurant,5008 69th St,"{'latitude': 40.7367175, 'longitude': -73.8960949}",21,4,11377,chinese
+OXTcpNk9ZXuOxPnjpcSs7w,Pearl Garden,14508 14th Ave,"{'latitude': 40.786695, 'longitude': -73.8219}",116,4,11357,chinese
+_EgBjtufCZIWwUkRn53OAA,Alley 41,136-45 41st Ave,"{'latitude': 40.75911, 'longitude': -73.828}",184,4,11355,chinese
+0mRtZ39VQI5CfHEJ7zDwug,Duck Wong,2341 86th St,"{'latitude': 40.6002, 'longitude': -73.9904}",196,4,11214,chinese
+_MdNLeBAcwv5Nb2yArZFvg,Happy Garden,2926 30th Ave,"{'latitude': 40.76728, 'longitude': -73.922814}",70,3.5,11102,chinese
+Yj3pRPnIG05AjRfGP0Afjg,Mei Chung Mei Restaurant,157 W 231st St,"{'latitude': 40.8784523010254, 'longitude': -73.902961730957}",20,4,10463,chinese
+iygZyb8glwWAV897IVTvwQ,Taste of Oriental,614 4th Ave,"{'latitude': 40.66492, 'longitude': -73.99369}",23,3.5,11215,chinese
+V58g7E1AHkuTchTVyLQuYQ,Saigon Grill & Bar,4521 Ave N,"{'latitude': 40.61883, 'longitude': -73.93099}",230,4.5,11234,chinese
+x_t-FtDa5HVgc-wecp0HBg,Supreme Restaurant,100 Mott St,"{'latitude': 40.71726, 'longitude': -73.99721}",2155,3.5,10013,chinese
+239gkHS4sotgrs7cK7QT-w,Empire Kitchen,1575 Park Pl,"{'latitude': 40.67206, 'longitude': -73.925008}",5,4,11233,chinese
+WEa266y5CsANNqvyfG7elA,King's Kitchen,158 Lewis Ave,"{'latitude': 40.6913483887911, 'longitude': -73.9367651939392}",7,4.5,11221,chinese
+u6Yrkowq8k5zBpClvjX2FA,Happy Garden Chinese Restaurant,7211 3rd Ave,"{'latitude': 40.63314, 'longitude': -74.02678}",45,4,11209,chinese
+Jn_p5WaprUY3Ql_539gsWw,M&J Asian Cuisine,600 E 14th St,"{'latitude': 40.7292851717997, 'longitude': -73.9780369922164}",41,3.5,10009,chinese
+XJ68bnXVpW-pZTuiDrnCzQ,China Pavilion,2102 Eastchester Rd,"{'latitude': 40.8563, 'longitude': -73.84374}",34,4,10461,chinese
+YKsHo3V-PkeRQdLYOdG7ZA,Lucky Chen - 五锦轩,13553 Northern Blvd,"{'latitude': 40.7634, 'longitude': -73.83159}",166,4.5,11354,chinese
+8Ef9eUwj4fO3uyY1dgEHsg,Splendid China,2038 Amsterdam Ave,"{'latitude': 40.835598, 'longitude': -73.940437}",31,3.5,10032,chinese
+e1r5NNXmsCX7XGhJYzZtJA,Spring Garden,4710 Ave N,"{'latitude': 40.61867, 'longitude': -73.92938}",25,3.5,11234,chinese
+0CXOlOPhQSSg3lSs27GOTA,Joyo Asian,79-17 Myrtle Ave,"{'latitude': 40.70302, 'longitude': -73.87014}",21,4,11385,chinese
+SNDUD4LFjVHWwrdAkokxRg,Mei Yu Spring,29 Catherine St,"{'latitude': 40.7125753536096, 'longitude': -73.9971762470746}",85,4,10002,chinese
+54_wHr9PpvpZDeEeIVtXCA,Nai Brother Chinese Sauerkraut Fish,135-3 Roosevelt Ave,"{'latitude': 40.75917756288389, 'longitude': -73.83158504672816}",2,5,11354,chinese
+iFAAI-7NoceHYVybom5SyA,New Peking,7715 37th Ave,"{'latitude': 40.7494475, 'longitude': -73.8884253}",61,3.5,11372,chinese
+S-aX_Pz8F7nDL6kRThKcHw,Vanessa's Dumpling House,310 Bedford Ave,"{'latitude': 40.713795, 'longitude': -73.961983}",533,3.5,11211,chinese
+dSZH0XgoZ-AT0qezA9Xx-g,King's Wok,4912 30th Ave,"{'latitude': 40.76005, 'longitude': -73.90741}",25,4,11377,chinese
+ItZ8CzZAGXGjB8_9HxDIXg,Grand Sichuan Eastern,172 8th Ave,"{'latitude': 40.74256, 'longitude': -74.00026}",124,3,10011,chinese
+PKkCtyZQpVEzivSF41ZgIw,Sunrise Chinese Restaurant,3320 Broadway,"{'latitude': 40.760806, 'longitude': -73.923281}",50,3.5,11106,chinese
+GKZa6xX1ZctdDTLDyfGBHw,Thank You Come Again,445 Albee Square W,"{'latitude': 40.69121, 'longitude': -73.98331}",28,4,11201,chinese
+rHg81VzTGVREMCfMmgYMog,Delicious Wok,5952 Summerfield St,"{'latitude': 40.700328, 'longitude': -73.896705}",33,4,11385,chinese
+Nt3Y26a6OMtdBe8xMMJjqQ,Mee Noodle Shop & Grill,930 2nd Ave,"{'latitude': 40.754463, 'longitude': -73.968518}",300,3.5,10022,chinese
+Va_mnsEvBghHXvc7uZIWJQ,Spice Symphony,182 Lexington Ave,"{'latitude': 40.744722, 'longitude': -73.981202}",603,4,10016,chinese
+w6TG3n_XFKi9t8txdqF9sA,Yummy Chinese Restaurant,1717 Cornelia St,"{'latitude': 40.7005043029785, 'longitude': -73.905647277832}",18,3.5,11385,chinese
+5uTJ_4fWfT1ImuwCLN9xGA,Shanghai Best,95 Montgomery St,"{'latitude': 40.7168947, 'longitude': -74.0387484}",384,3,7302,chinese
+LYp3izplqg0x-h9CBlb-MQ,China Gourmet,877 8th Ave,"{'latitude': 40.76381, 'longitude': -73.98524}",234,2.5,10019,chinese
+wobICp6lQP7Y6dfnJ_4Ujw,Shun Lee West & Cafe,43 W 65th St,"{'latitude': 40.7727826, 'longitude': -73.9811626}",482,3,10023,chinese
+_eWN3zih_cnY0fiLWva9EA,Li Wan Restaurant,6428 Metropolitan Ave,"{'latitude': 40.7122917175293, 'longitude': -73.8961334228516}",28,4,11379,chinese
+AeLz0uoZH3hxmkcXlwUIGg,Yip's,18 Beaver St,"{'latitude': 40.70482, 'longitude': -74.01238}",108,3.5,10004,chinese
+j9LAlbSiqGlvfAOt8LRRzQ,New Kam Lai,514 Amsterdam Ave,"{'latitude': 40.78701, 'longitude': -73.975899}",57,2.5,10024,chinese
+jY24wzoHi-DSHYSybWao7w,Ting Hua New Kitchen,351 Smith St,"{'latitude': 40.679817, 'longitude': -73.99488}",48,3,11231,chinese
+RgIFYmjtBp5k90AK1jP7Zw,Peking Express Chinese Rest,13412 Rockaway Blvd,"{'latitude': 40.6743, 'longitude': -73.804}",47,3.5,11420,chinese
+nznIq087BJUN1fLtPQ0Xww,Lagman House,2612 E 14th St,"{'latitude': 40.58756, 'longitude': -73.95548}",122,4.5,11235,chinese
+9gktK6DNHb3k0y-o6nP7pA,J's Wong,717 Franklin Ave,"{'latitude': 40.67402, 'longitude': -73.95661}",66,3.5,11238,chinese
+i9OqZT0dLMPC1TbMtyaIWQ,The Noodle,370 Malcolm X Blvd,"{'latitude': 40.81002, 'longitude': -73.94352}",58,4.5,10027,chinese
+5FbVGhTO8U4wh0AATsN9tA,Wan's Garden,6826 Forest Ave,"{'latitude': 40.702864, 'longitude': -73.901421}",26,4,11385,chinese
+NXg-oNpx0GYNiErdHb8L5A,Awesum Dimsum,160 E 23rd St,"{'latitude': 40.7388534, 'longitude': -73.98367370212858}",128,5,10010,chinese
+bgnM6uy66zupYzb4QdL3vA,108 Food Dried Hot Pot,2794 Broadway,"{'latitude': 40.80271, 'longitude': -73.96738}",149,3.5,10025,chinese
+E_V_pCjtbvdniE8ECOMg3Q,Great Wall Chinese Restaurant,87-12 Astoria Blvd,"{'latitude': 40.7638765, 'longitude': -73.8816184}",22,4,11369,chinese
+v_AUy42FBfZfWJqln-qa1g,China Doll,2526 Linden Blvd,"{'latitude': 40.66714, 'longitude': -73.870506}",7,4.5,11208,chinese
+MwmXUth8tZBJ0cqg_ouzog,Lucky Star Chinese Restaurant,1924 Cross Bronx Expy,"{'latitude': 40.832484, 'longitude': -73.859553}",38,3.5,10472,chinese
+2tR7d61tBGNlGaJRYvrN0Q,Dumplings & Things,45-26 46th St,"{'latitude': 40.7425888323281, 'longitude': -73.9189697784327}",174,3.5,11104,chinese
+Xcx72D-DzpQ6o_ATEkpH5A,Ye Garden,71-02 Fresh Pond Rd,"{'latitude': 40.70169, 'longitude': -73.8952}",23,3.5,11385,chinese
+W-i6X2KWxRjsG05CgIM9ow,Hardee,771 Saratoga Ave,"{'latitude': 40.6618899485811, 'longitude': -73.9153899997473}",9,4.5,11212,chinese
+0ng8qzjd2ExoXJ4CuDwyWw,Lucky Star,807 Southern Blvd,"{'latitude': 40.816918, 'longitude': -73.896069}",1,5,10459,chinese
+9FwX2ye1eCxnPVoQOHHr3g,East Wind Snack Shop,471 16th St,"{'latitude': 40.6603409, 'longitude': -73.9799505}",206,4,11215,chinese
+5sG_S51rleFhCKLgQpXc_g,New Sunny East 88,1680 1st Ave,"{'latitude': 40.777902, 'longitude': -73.94825}",70,3.5,10128,chinese
+cJgOTr_PbcGE53-n8B-g1Q,Joe's Steam Rice Roll,36 St Marks Pl,"{'latitude': 40.72863, 'longitude': -73.98805}",77,4,10003,chinese
+NgY0RmhbpgAYb5t1jWT3OA,Yaso Tangbao,289 Mercer St,"{'latitude': 40.730208, 'longitude': -73.994044}",41,4,10003,chinese
+rN347NNwQ0hDSlbedzI9BQ,Kai Sushi Asian Fusion,1475 Williamsbridge Rd,"{'latitude': 40.84362, 'longitude': -73.84565}",243,4,10461,chinese
+iQKKS_QwYcgrjFISuDClqQ,Good Joy,216 Dekalb Ave,"{'latitude': 40.68942, 'longitude': -73.97067}",27,3,11205,chinese
+gcEMZjjqy5Ucnv_5Pv-q1g,Tasty Hand Pulled Noodles II,648 9th Ave,"{'latitude': 40.760537, 'longitude': -73.990782}",306,4,10036,chinese
+aije_BqBVVl-6T13QsnRqQ,August Gatherings,266 Canal St,"{'latitude': 40.7186556, 'longitude': -74.0011004}",256,3.5,10013,chinese
+reIlBT2vdVkjqztXP73Vug,Xing & Hui Linda's Kitchen,4006 E Tremont Ave,"{'latitude': 40.82022, 'longitude': -73.81824}",9,4,10465,chinese
+za9mYaRVWkwKkQfjRgvU0g,Taiwan Bear House,11 Pell St,"{'latitude': 40.7147185237041, 'longitude': -73.9977966218067}",309,4,10013,chinese
+8D-_5pTo_ebKnBWaOT4X2Q,Mayflower Chinese Restaurant,1151 Castleton Ave,"{'latitude': 40.634538, 'longitude': -74.12074}",5,4,10310,chinese
+g_5V15Xp1OvB1QXuGMstYA,Chef Yu,520 8th Ave,"{'latitude': 40.75365, 'longitude': -73.99217}",581,3,10018,chinese
+HoU-pi4U4EK-AwkTxNCAEg,Lisa's Dumplings,57th St & 8th Ave,"{'latitude': 40.7689469190942, 'longitude': -73.9824067136363}",53,4,10019,chinese
+To_cXGhJEjw3NT4v8mzFxg,Triple 8,736 East 152nd St,"{'latitude': 40.8156899, 'longitude': -73.9074}",4,3.5,10455,chinese
+TjB0wn5MyHM5rDMBCSCnfw,Old Peking,746 Montgomery St,"{'latitude': 40.7255268, 'longitude': -74.0683028}",41,4,7306,chinese
+_7rU61c3WTVfPS_-FNup8g,J J Chan's Garden,7521 31st Ave,"{'latitude': 40.7593470534684, 'longitude': -73.89224166101121}",122,3.5,11370,chinese
+PWo2Hs_AOImd4lCmyIBTXg,Kingwuu,131 Walker St,"{'latitude': 40.717301, 'longitude': -73.999781}",2,5,10013,chinese
+TAm8Eauo0NQNHpjOAWXo2A,Teng Dragon,2260 1st Ave,"{'latitude': 40.7961006164551, 'longitude': -73.9349899291992}",21,3,10035,chinese
+3LTl3k2e8AEoCqviKq9yWQ,Yaso TangBao,30 Hudson St,"{'latitude': 40.7131952, 'longitude': -74.0344583}",14,4.5,7302,chinese
+TxaxeiUqQqcFrWrerNqgXw,No 1 Chinese Restaurant,265 1st Ave,"{'latitude': 40.732437, 'longitude': -73.982139}",45,2.5,10003,chinese
+CIV1wpkbmpdMPDCl1lNWhQ,Wing Wah Restaurant,9812 Metropolitan Ave,"{'latitude': 40.710773, 'longitude': -73.85427}",44,4,11375,chinese
+02vk_9R9iv22JBft8KpIxQ,Mama’s Kitchen 老地方,82-02 45th Ave,"{'latitude': 40.7415872384194, 'longitude': -73.8827377181548}",15,4.5,11373,chinese
+OUXpyNFn4XY-2cNyURHCQw,Yummy Yummy Chinese Restaurant,13206 Crossbay Blvd,"{'latitude': 40.6765460997353, 'longitude': -73.8440620312661}",36,3,11417,chinese
+jWuUibgnTGsJibOrr6UUSw,Haidilao Hotpot,138-23 39th Ave,"{'latitude': 40.76099, 'longitude': -73.827853}",1065,4.5,11354,chinese
+c1HgKFOT4Cc7TqWQD5mQBQ,Cheong Fun Cart,159 Hester St.,"{'latitude': 40.7176279773311, 'longitude': -73.9963736857056}",82,4.5,10013,chinese
+EYpS39ad-GfC5l2F7PwZig,Jade Asian Bistro,331 New Dorp Ln,"{'latitude': 40.571574, 'longitude': -74.1113}",197,4,10306,chinese
+D1pXSDT0FAlsZ6Z7E_Sc3Q,Grand China,6942 Grand Ave,"{'latitude': 40.72645, 'longitude': -73.893997}",11,3.5,11378,chinese
+6gE9N5wD4K-bbmSEBm7Lhw,Kong Kee,212 Grand St,"{'latitude': 40.719047, 'longitude': -73.996139}",58,4,10002,chinese
+_iLjlrftSGKvFyG6PXQyAg,Best Chinese Restaurant,4004A Boston Rd,"{'latitude': 40.88447, 'longitude': -73.8315}",24,4.5,10475,chinese
+rk8V5c1Wr5gVLKOaY0g4VQ,Farmers Restaurant,1692 86th St,"{'latitude': 40.60855, 'longitude': -74.0053}",81,3,11214,chinese
+inp9N7bo9zqQSa8h8UBhqg,Empire Szechuan,193 Columbus Ave,"{'latitude': 40.775683, 'longitude': -73.980178}",236,2.5,10023,chinese
+IBMaz2RZPkU1Ng9b8A6ywg,Lin's Kitchen,70-24 35th Ave,"{'latitude': 40.75051, 'longitude': -73.8955064}",45,3.5,11372,chinese
+Jy7htqnnxlKB2vZO42_-aw,Ding Asian Szechuan Hot Pot Restaurant,234 W 48th St,"{'latitude': 40.76064, 'longitude': -73.98635}",193,3.5,10036,chinese
+qvXUXFKijyprAOMtxRGyGQ,Mei Mei Restaurant,2833 Grand Concourse,"{'latitude': 40.8699376483647, 'longitude': -73.8916917516366}",46,3.5,10468,chinese
+xP7hDsKGMT44Ykmkr3gECA,New Kam Sheng,454 W 238th St,"{'latitude': 40.88724, 'longitude': -73.90524}",24,3.5,10463,chinese
+ZPBR2h4hL9d3_2g7AOBCNg,Kingwuu 精武鸭脖,135-45 Roosevelt Ave,"{'latitude': 40.759355, 'longitude': -73.8311542}",2,4.5,11354,chinese
+D-3KVI4IlQckxA5HMb81Kw,Ho Ho Garden,9306 Liberty Ave,"{'latitude': 40.67998, 'longitude': -73.84548}",27,4,11417,chinese
+5dzFMuClH9CDvfaUuIKWeg,Hunan Chen's Kitchen,1003 Columbus Ave,"{'latitude': 40.80133, 'longitude': -73.96113}",40,3,10025,chinese
+bKXnm2k44mSdU0fP69lY-g,Szechuan Mountain House,39-16 Prince St,"{'latitude': 40.7593930266428, 'longitude': -73.8326038269836}",350,4,11354,chinese
+U0SmczzYhahOeRxftjBPSg,Chef 28,29 E 28th St,"{'latitude': 40.74393, 'longitude': -73.98493}",166,3.5,10016,chinese
+VBb86ambhnebBuFjVYU0Zw,New City,236 Knickerbocker Ave,"{'latitude': 40.7029774649578, 'longitude': -73.9258919279945}",17,3,11237,chinese
+dn8_HgoGUE4IFzwPI6GeLA,Kai Feng Fu 開封府鍋貼,4801 8th Ave,"{'latitude': 40.64201, 'longitude': -74.00238}",262,4.5,11220,chinese
+8zTyhMq0ki83WoWrq4D0qw,Non La,128 E 4th St,"{'latitude': 40.725287, 'longitude': -73.987563}",21,5,10003,chinese
+ak9vroilf-vpA_GSNWX2Jg,Imperial Palace,13613 37th Ave,"{'latitude': 40.761867, 'longitude': -73.830619}",437,4,11354,chinese
+EN9_LsFpY44Hkzcnu0jfIg,Dynasty Dim Sum,381 3rd Ave,"{'latitude': 40.74148, 'longitude': -73.98087}",175,4,10016,chinese
+RoXFN-T1s6moM5smbY_5Gw,Mee Noodle Shop,795 9th Ave,"{'latitude': 40.7653751, 'longitude': -73.9879042}",508,3,10019,chinese
+emaMBqN_eWu71rgnQEnG3g,Szechuan Garden,463 7th Ave,"{'latitude': 40.662378, 'longitude': -73.98508}",78,3.5,11215,chinese
+9K8VhYvIA26AFMQY8S1soQ,M Noodle Shop,549 Metropolitan Ave,"{'latitude': 40.714257, 'longitude': -73.950646}",363,3,11211,chinese
+1YGpTYD8xIuUpK_beMhzSw,The Rice Noodle,190 Bleecker St,"{'latitude': 40.729087, 'longitude': -74.001525}",145,4,10012,chinese
+YdAtCf_13UK-uvXuOMrhNg,Radiance,208 E 50th St,"{'latitude': 40.7555779423723, 'longitude': -73.9703503944427}",174,3.5,10022,chinese
+um0U71kITL1NtD4Am6D8Mg,New Yee Li,6619 Fort Hamilton Pkwy,"{'latitude': 40.62973619999999, 'longitude': -74.0102969117124}",16,4,11219,chinese
+Y92VtOkTZ6BirkJbUKCMOw,Rong Cheng House,242 W 56th St,"{'latitude': 40.76572, 'longitude': -73.98286}",69,4,10019,chinese
+AEkpyAGcVe5NgH2Nb7fCNQ,Nuevo Jardin De China Restaurant,3205 Broadway,"{'latitude': 40.7615513755699, 'longitude': -73.9243148820204}",214,3.5,11106,chinese
+hWkbadE0u-Eiqg9SAm176Q,Our Place China Chalet,242 E 79th St,"{'latitude': 40.7733383, 'longitude': -73.9558029}",63,3,10075,chinese
+xrTUkzB4YQTXm8TKdNyJ4A,Oriental Palace Kitchen,3030 Mermaid Ave,"{'latitude': 40.57512, 'longitude': -73.99729}",21,4.5,11224,chinese
+_usWsAYSKKV2q8xw-3ajrA,Nom Wah Tea Parlor,13 Doyers St,"{'latitude': 40.714490521829, 'longitude': -73.998153857324}",2034,3.5,10013,chinese
+yVDNPV0Yf3vQAsXTJett1g,I-Fortune Cookie,44-69 21st St,"{'latitude': 40.7476578, 'longitude': -73.947319}",57,3,11101,chinese
+l_gQf_4NgPMJcx2OkjsMfg,Noods n’ Chill,170 S 3rd St,"{'latitude': 40.71194, 'longitude': -73.96121}",76,4,11211,chinese
+A0saPXtRGKl-SVJGQyQAOw,Brooklyn Chop House,150 Nassau St,"{'latitude': 40.7115099, 'longitude': -74.00597}",542,4,10038,chinese
+B9JGlCZ6XkKPXXhTaYwAlA,RJR Yummy Kitchen,9021 31st Ave,"{'latitude': 40.7601665, 'longitude': -73.8783152}",29,4,11369,chinese
+EM6z-NkZ-q2KPWNY7aKvNw,Woks Chinese Cuisine,79-21 37th Ave,"{'latitude': 40.7496084, 'longitude': -73.8868197}",21,3.5,11372,chinese
+vkgl6UT8e7PXoVZUhxXq8w,Good Taste,3801 29th St,"{'latitude': 40.7543728, 'longitude': -73.9335449}",50,3.5,11101,chinese
+7QMABbdgA5o0PVq8anr2mg,Golden Dynasty Restaurant,6316 Bay Pkwy,"{'latitude': 40.61483, 'longitude': -73.98086}",22,4,11204,chinese
+od-UsU-zZx29CWLhq-eong,Chongkho Restaurant,562 Grand St,"{'latitude': 40.71101, 'longitude': -73.94929}",27,5,11211,chinese
+E2qpRYXvqPWklaSOvdnO4A,Tofu On 7th,384 5th Ave,"{'latitude': 40.6710898, 'longitude': -73.9849197}",19,3.5,11215,chinese
+l7G5tDA96xbA_bx1ZgkOeg,ICHIRAN Midtown,132 W 31st St,"{'latitude': 40.74839, 'longitude': -73.99062}",843,4,10001,chinese
+ton8k6LoJJ_nxIx2hpwYag,Island Garden,823 Castleton Ave,"{'latitude': 40.63482, 'longitude': -74.10985}",19,3.5,10310,chinese
+YCen62jqSWhPOAorQjSZdQ,MoonHouse,1810 3rd Ave,"{'latitude': 40.788337, 'longitude': -73.947502}",103,3.5,10029,chinese
+OfVP8lDL1Juk8b8Hlx7fQg,New China Tung,140 5th Ave,"{'latitude': 40.678642, 'longitude': -73.97927}",52,3.5,11217,chinese
+Tk605KjXVTnXpGkOSuVBaQ,Asian Garden,84-17 Jamaica Ave,"{'latitude': 40.6925863273397, 'longitude': -73.8603101670742}",26,4,11421,chinese
+eN7MYNtDzaMzk4WptrVw3A,Lucky Garden,2460 Nostrand Ave,"{'latitude': 40.624759, 'longitude': -73.946823}",28,4,11210,chinese
+qrncvjkiKN5Z-JC06ygy6A,Hutong,731 Lexington Ave,"{'latitude': 40.761551, 'longitude': -73.967443}",286,3.5,10022,chinese
+d8jKE2-a8fhK8g3yg8bJwg,P.F. Chang's To Go,630 3rd Ave,"{'latitude': 40.75004662946601, 'longitude': -73.97511709481478}",3,3.5,10017,chinese
+h4co9O0SLuvhTtr_Cs9IIQ,New Kam Lai,890 Amsterdam Ave,"{'latitude': 40.7989112, 'longitude': -73.967015}",38,3.5,10025,chinese
+7Ap1bmY3u_uM9L63fy0g7A,Ho Wah Chinese Restaurant,551 Gates Ave,"{'latitude': 40.6870242760585, 'longitude': -73.944796100731}",7,4.5,11216,chinese
+QhE50zhSMnQaudpHW1jp7g,The Tyger,1 Howard St,"{'latitude': 40.71888, 'longitude': -73.99951}",42,4.5,10013,chinese
+__r8_g1cgDaiDn10cGeJ3Q,New China Red,118 Chambers St,"{'latitude': 40.715023, 'longitude': -74.008636}",34,2.5,10007,chinese
+6dVXDdgzDEVt4DvHzpWo9w,Tang Pavilion,65 W 55th St,"{'latitude': 40.762849, 'longitude': -73.977189}",307,3.5,10019,chinese
+YJqM9wxCH-PNslHbffzbGg,Dynasty Chinese Restaurant,1669 Flatbush Ave,"{'latitude': 40.630418, 'longitude': -73.944}",45,3,11210,chinese
+pBNMZp_tKCAfRNx7-ybcHQ,Calle Dao - Chelsea,461 W 23rd St,"{'latitude': 40.74769301, 'longitude': -74.00350737}",668,4.5,10011,chinese
+bacGm8cL-vUPHdR18_M7bw,Charley Mom Restaurant,1580 York Ave,"{'latitude': 40.7740287780762, 'longitude': -73.9481582641602}",89,3.5,10028,chinese
+vbL4Ef8zf4dmdR9Gyl5lkw,Taiwanese Gourmet,8402 Broadway,"{'latitude': 40.739713, 'longitude': -73.878766}",365,3.5,11373,chinese
+poECelUuZjcM6xSlYjqxbw,China Delight,4009 5th Ave,"{'latitude': 40.65043, 'longitude': -74.0045899}",49,3.5,11232,chinese
+GzY2EjCmGNgvRd7IE20fTA,Wei West,235 Murray St,"{'latitude': 40.7149792560543, 'longitude': -74.0148960394593}",216,3,10282,chinese
+53lgp8fFEuK3Yo7yeXc89A,Tim Ho Wan - Hell's Kitchen,610 9th Ave,"{'latitude': 40.75935, 'longitude': -73.99175}",402,3.5,10036,chinese
+01m-oqxaCifh0s0eU03bBg,Asia Express,493 2nd Ave,"{'latitude': 40.74094, 'longitude': -73.97891}",64,3,10016,chinese
+TBW3arqP85VbGqOlQ3PM1Q,West Side Wok,691 Amsterdam Ave,"{'latitude': 40.79235, 'longitude': -73.97139}",7,4,10025,chinese
+8ZBbl3VN-cu6PFOL0D7-8A,Hunan Village,339 Lexington Ave New York Ny,"{'latitude': 40.749688, 'longitude': -73.977171}",3,3.5,10016,chinese
+SFleMiroXTeWnXfonRic-w,Fast Wok,260 Brook Ave,"{'latitude': 40.808, 'longitude': -73.9187199}",8,4,10454,chinese
+bVEvRibOk3dukWJ8TiU7GQ,Taste of China,4501 Broadway,"{'latitude': 40.7571451223932, 'longitude': -73.9148019297323}",33,3.5,11103,chinese
+TWI3efEcCVsTErKFWz4Zqg,Nom Wah Nolita,10 Kenmare St,"{'latitude': 40.7204154878855, 'longitude': -73.9944789558649}",193,3.5,10012,chinese
+OvdCm3j_5HzItolfvwrEUA,Lilli & Loo,792 Lexington Ave,"{'latitude': 40.763858, 'longitude': -73.967269}",404,3.5,10065,chinese
+741IMLpXPq755tDaEYXAtA,Joe's Steam Rice Roll 石磨腸粉王,136-21 Roosevelt Ave,"{'latitude': 40.76012, 'longitude': -73.82941}",651,4.5,11354,chinese
+OSqcNi7EZLAMtuiQjuoiLg,Grand Great Wall Restaurant,1588 Amsterdam Ave,"{'latitude': 40.8212837, 'longitude': -73.9506657}",25,3.5,10031,chinese
+1nE1Kh1NgbtfRKh5byGQkw,Hood Hing Restaurant,198 Underhill Ave,"{'latitude': 40.6747, 'longitude': -73.967072}",22,4,11238,chinese
+ynIx549QFj29o84y1RSGyw,Bao Bao Cafe,61 Lexington Ave,"{'latitude': 40.740829, 'longitude': -73.983474}",472,4,10010,chinese
+e03tT0hH6qU-_dR8pwFa0Q,Mr Wonton,4411 Queens Blvd,"{'latitude': 40.743636, 'longitude': -73.9202633}",55,3,11104,chinese
+ZF-pkWLcWEK3K3DXssFj8g,Beijing Chinese & Japanese Food,551 Woodward Ave,"{'latitude': 40.7071113586426, 'longitude': -73.9090576171875}",32,4,11385,chinese
+w8mt6JTk8lUe7dTV6hASEw,Golden Way,13309 Cross Bay Blvd,"{'latitude': 40.67507, 'longitude': -73.842849}",58,3.5,11417,chinese
+R8V6kbUtyfPAwNNu46vMvg,Tonii’s Fresh Rice Noodle,83 Bayard St,"{'latitude': 40.715608, 'longitude': -73.998949}",117,4.5,10013,chinese
+7yi9uA-LmrGpG6OOuK2byg,Hong Kong Chinese Restaurant,6297 Forest Ave,"{'latitude': 40.710983, 'longitude': -73.904869}",25,4,11385,chinese
+Dr_eezrA2Cc_azMYnwhRkA,Sup Crab,97 Bowery,"{'latitude': 40.71733, 'longitude': -73.99502}",270,4,10002,chinese
+4HvBAmpVXUwW5BucwMR13Q,New Neighbor Kitchen,1404 Cortelyou Rd,"{'latitude': 40.64075, 'longitude': -73.96507}",18,3.5,11226,chinese
+K0qsGnFv-edPDqVBdLCocQ,China Garden,39-20 47th Ave,"{'latitude': 40.74166, 'longitude': -73.92577}",67,4,11104,chinese
+BtsXojrMtfLRhhFK7rm35A,Hupo琥珀,1007 50th Ave,"{'latitude': 40.742827, 'longitude': -73.953575}",101,4.5,11101,chinese
+gl1p0g_BN_DC4Eh_hRaUEg,Joong Koog Jip,149-08 41st Ave,"{'latitude': 40.76194966092599, 'longitude': -73.8153339}",224,4,11355,chinese
+1ahP9qyZe95hX9z9ha-Bog,Anise,3511 Johnson Ave,"{'latitude': 40.8859701, 'longitude': -73.9100529}",22,3.5,10463,chinese
+qEe7nIhPfEL6L0-VYhWRrA,Raku,48 Macdougal St,"{'latitude': 40.72728, 'longitude': -74.00252}",425,4.5,10012,chinese
+yFub1BhKEP-W-_ZM3_nJoQ,Bodhi Kosher Vegetarian Restaurant,77 Mulberry St,"{'latitude': 40.71641, 'longitude': -73.99931}",398,4.5,10013,chinese
+5z1CFWRQYu38S6UMIckT9Q,Grace Kitchen,484 Myrtle Ave,"{'latitude': 40.6933, 'longitude': -73.96569}",28,3,11205,chinese
+MEaT9f2B4F0gvXhCir9v4w,Chan Yang Garden,479 Bergen St,"{'latitude': 40.680957, 'longitude': -73.974586}",27,3.5,11217,chinese
+VxzDpDIlwmWkbR5L_dB2yA,Good Friend Chinese Resturant,176 Macus Garvey Blvd,"{'latitude': 40.6922492980957, 'longitude': -73.9401473999023}",4,4.5,11221,chinese
+qvjUByIi7smsytbgKF2BBg,Welcome Chili,3806 Fort Hamilton Pkwy,"{'latitude': 40.643718, 'longitude': -73.9902359}",2,5,11218,chinese
+gABJfl51T0QXitBlXlVB4g,China King,2026 Lexington Ave,"{'latitude': 40.80339, 'longitude': -73.93832}",5,4.5,10035,chinese
+RTFIMX31BPeZzx7kJJ1SCA,RedFarm,529 Hudson St,"{'latitude': 40.7342, 'longitude': -74.00652}",675,3.5,10014,chinese
+b7VlW8XohVzUyePYgkYtmA,Mr. Fulton,1274 Fulton St,"{'latitude': 40.6802691945888, 'longitude': -73.9498954584064}",5,4.5,11216,chinese
+91rrB0aH3caC70oCkxAynA,Deluxe Green Bo,66 Bayard St,"{'latitude': 40.715540215765, 'longitude': -73.9981645926656}",664,3.5,10013,chinese
+A_e9adJ7v_U7trur2JMrgA,Grill On Lee,108 Lee Ave,"{'latitude': 40.7044641162683, 'longitude': -73.9587070047855}",11,3.5,11211,chinese
+LU4mHDTgFxOuvuK1SFbJag,Asian 83,1605 2nd Ave,"{'latitude': 40.77626, 'longitude': -73.953269}",34,3,10028,chinese
+Mc-uTqSARIIvdE8Jn8a5Yw,Amy's Restaurant,586 W 207th St,"{'latitude': 40.86701, 'longitude': -73.92097}",112,3.5,10034,chinese
+loLFoBWWXfpFu9fOdWebHQ,Yong Sheng,2825 Frederick Douglass Blvd,"{'latitude': 40.82645, 'longitude': -73.93951}",12,4,10039,chinese
+2YYXbDTL9G6LyuNvZGCvyQ,Astoria Dragon and Phoenix,29-21 Astoria Blvd,"{'latitude': 40.770487844385265, 'longitude': -73.91895974878074}",7,5,11102,chinese
+DGrFKsyAOotGDJw-JyXsTw,Double Dragon Restaurant,2647 Jerome Ave,"{'latitude': 40.867191, 'longitude': -73.898079}",15,3.5,10468,chinese
+QlVBFWxQ-HY-O2AmqHiJxA,New China Restaurant,3035 3rd Ave,"{'latitude': 40.8199502681327, 'longitude': -73.9133950213959}",9,3.5,10455,chinese
+vSkCDRWX6VvP4PJHHFgoDw,New King Wok Restaurant,2025 7th Ave,"{'latitude': 40.8064728, 'longitude': -73.9498444}",16,4,10027,chinese
+hjlvKeRTHA5mh1dNX4yM-w,Nb Wing Wong,42 Bowery,"{'latitude': 40.715534, 'longitude': -73.996726}",41,4,10013,chinese
+_LLK-gnjeTLwpyoliglozw,Hang Lee Chinese,666 W 204th St,"{'latitude': 40.867262242948, 'longitude': -73.9233304385214}",27,3.5,10034,chinese
+Y3UBu639SToFR0xHHBg1xA,China Town Chinese Restaurant,250 E Houston St,"{'latitude': 40.722095489502, 'longitude': -73.9849090576172}",14,3,10002,chinese
+ezh0BG1qWKKLJa99gb-XzQ,Spice Spirit,900 Bergen Ave,"{'latitude': 40.7299773848248, 'longitude': -74.0650781984882}",56,4.5,7306,chinese
+_4UvguU5z2hMsHXlYedFXw,Tao Hong Bakery,79 Chrystie St,"{'latitude': 40.71735, 'longitude': -73.9945679}",41,4.5,10002,chinese
+j0tkph2po_37gtZ1ufxiow,Golden House,3512 30th Ave,"{'latitude': 40.765042978720075, 'longitude': -73.91790164110698}",93,2.5,11103,chinese
+Ctl89LOC7HgewvuqSPwQxA,Maxim,6812 Roosevelt Ave,"{'latitude': 40.7461429, 'longitude': -73.8969407}",27,3,11377,chinese
+d6pcRMV1YUDFTKO_p9d-sA,Wong Kwong Hop,85-27 Grand Ave,"{'latitude': 40.735727, 'longitude': -73.88152}",83,4.5,11373,chinese
+iCjntZ9WI6Vl_onP_JqZPA,No 1 Chinese Restaurant,479 Ralph Ave,"{'latitude': 40.672897, 'longitude': -73.921928}",22,2.5,11233,chinese
+mbMchTP7rPYqz32g5oD3kQ,New Ming Garden Kitchen,10428 Roosevelt Ave,"{'latitude': 40.749924, 'longitude': -73.860532}",3,3.5,11368,chinese
+_O3q6PSXNoPapUar-RVXPw,Grace Chinese Food II,136 Graham Ave,"{'latitude': 40.70615, 'longitude': -73.94286}",17,3.5,11206,chinese
+-3A-kTdW-P32hoOMQeBl-A,Six Happiness Restaurant,1378 Crosby Ave,"{'latitude': 40.84057, 'longitude': -73.8295}",25,4,10461,chinese
+_FeMTFEx8aHOaSusblkVzA,Yaso,253 36th St,"{'latitude': 40.65614, 'longitude': -74.00725}",64,4,11232,chinese
+MBU4VGyaPKZKhe5x7UMQpA,Jing Wah Chinese Resturant,8720 Liberty Ave,"{'latitude': 40.679777, 'longitude': -73.850712}",13,4,11417,chinese
+uXtaduMyk2oGdnHYR4ZafA,Vegetarian Palate,603 Washington Ave,"{'latitude': 40.679648, 'longitude': -73.963867}",193,3.5,11238,chinese
+BLYomPDQX5HkNWFJ2Lxfpg,Szechuan Delight Restaurant,152 7th Ave,"{'latitude': 40.67254, 'longitude': -73.97706}",110,3,11215,chinese
+TU_BU9HLflYI2xlyqVQdRA,TAO Uptown,42 E 58th St,"{'latitude': 40.762659285620664, 'longitude': -73.97144107883544}",2605,3.5,10022,chinese
+5RjZCsXuWPclyrDsnsXw7w,Xi'an Famous Foods,38 E 23rd St,"{'latitude': 40.74033, 'longitude': -73.98744}",205,4,10010,chinese
+ekXcaHSWrvmSQafJHIU-Dw,China Moon,1068 Rutland Rd,"{'latitude': 40.66391, 'longitude': -73.92424}",9,4.5,11212,chinese
+_6nI_J5Kzj12oHMfjR3A4A,U Like Chinese Take Out,4926 Broadway,"{'latitude': 40.8674342, 'longitude': -73.9215025}",73,3,10034,chinese
+kBSrDu4zJ_tr5npTOdhjvg,Super Kew Garden,11649 Queens Blvd,"{'latitude': 40.7157498, 'longitude': -73.8324821}",51,3.5,11375,chinese
+osnb51lPIHxUKRlcg7idwA,Kathy's Dumplings,7924 3rd Ave,"{'latitude': 40.6279735, 'longitude': -74.0293625}",226,4,11209,chinese
+S0CYlCpjRfq13k2qz06DHw,Xiang Hotpot-Brooklyn,5816 Fort Hamilton Pkwy,"{'latitude': 40.6339, 'longitude': -74.00467}",120,4,11219,chinese
+mFjM_-mH0HTNFqp6ojmpwA,Yung Hsin,1475 Beach Ave,"{'latitude': 40.837804523176, 'longitude': -73.8670083135366}",4,5,10460,chinese
+3NYQQckItp9l7GDzALw79w,Lin's Gourmet,1097 2nd Ave,"{'latitude': 40.759891, 'longitude': -73.965187}",70,3.5,10022,chinese
+flmNwrxQfYNvWp7_-fZyDg,Tack's Chinese Take Out,11C Holden Blvd,"{'latitude': 40.60462, 'longitude': -74.12123}",62,3.5,10314,chinese
+s139bhrBbcVGxSjp9eTDcA,China Wok,1035 E 92nd St,"{'latitude': 40.64378, 'longitude': -73.9075}",1,5,11236,chinese
+rHA9M0XOJL6O11xaEiDurA,New Kam Lai Chinese,708 Amsterdam Ave,"{'latitude': 40.79303, 'longitude': -73.97133}",63,3,10025,chinese
+MaZWYgvu08NLQVRcDGGvqQ,Zhen Wei Fang 臻味坊,207 Bowery,"{'latitude': 40.72128, 'longitude': -73.99343}",191,4,10002,chinese
+G4K-mNlM0oLKo8N--Ne2AA,Sampan Chinese Restaurant,28-48 Steinway St,"{'latitude': 40.7644, 'longitude': -73.9148699}",77,3,11103,chinese
+6ZUNlT0iiHUEwZ-46GQmrg,ChopStix Of Bay Ridge,8405 5th Ave,"{'latitude': 40.62256, 'longitude': -74.0253}",245,3,11209,chinese
+0odtQty6tMRPQ7UrNysUxw,Wen Gee House,287 Van Brunt St,"{'latitude': 40.678898, 'longitude': -74.010712}",13,3.5,11231,chinese
+ikVDSp8YhAYuy0Lua1hpDA,Great Wall,2234 1st Ave,"{'latitude': 40.795074, 'longitude': -73.935684}",15,4,10029,chinese
+E1fFQqXuO2Ido9hGDmTbDg,Good Luck Chinese Restaurant,4516 48th Ave,"{'latitude': 40.7392043166647, 'longitude': -73.9197625899353}",11,4,11377,chinese
+ZodRffm6pfjb6PPtvOZ5AQ,Wing Hua 2,223 Church Ave,"{'latitude': 40.6438, 'longitude': -73.97763}",41,3,11218,chinese
+rsbjGGa8kh14ZWYSnK5rGQ,Jac Mao,1771 Hylan Blvd,"{'latitude': 40.5859153194951, 'longitude': -74.0929840380287}",150,3.5,10305,chinese
+7vFjXvrKINtU3OV4TPqsJQ,Teng Dragon,1516 Amsterdam Ave,"{'latitude': 40.8188500278556, 'longitude': -73.9525201544166}",5,4,10031,chinese
+nxTEuWKzkK1tCF4LrhFSUQ,Pig and Khao,68 Clinton St,"{'latitude': 40.71926, 'longitude': -73.98475}",1657,4,10002,chinese
+0WDHtP31HeVY0LP8INiFzQ,Rice Noodle Cart,153 Centre St,"{'latitude': 40.717931, 'longitude': -74.000283}",151,4.5,10013,chinese
+JgKB3S7bGPbry54yIDZjcw,Foo Hing Kitchen,2895 Sedgwick Ave,"{'latitude': 40.87503, 'longitude': -73.90139}",12,4,10468,chinese
+ZF2cnQJkPT1inCUaR7_JgA,New King's Wok Kitchen,6669 Broadway,"{'latitude': 40.91044, 'longitude': -73.89681}",26,4,10471,chinese
+75t3Wd1bbSqHynIcxc_RxA,2 In 1 Restaurant,2108 Flatbush Ave,"{'latitude': 40.61844, 'longitude': -73.93255}",7,4.5,11234,chinese
+KIPrTLyJb0mHpsxuaCByZg,Corner 28 - The Roast,5124 8th Ave,"{'latitude': 40.6401824951172, 'longitude': -74.0049591064453}",86,4,11220,chinese
+SbDFRevMMi_6o-6-mzWMxg,Happy Garden,402 Henry St,"{'latitude': 40.6875151, 'longitude': -73.9979148}",13,3,11201,chinese
+2pnhIRBUw58PpN8CQEYiZA,New Food King,694 10th Ave,"{'latitude': 40.76366, 'longitude': -73.99217}",64,3.5,10036,chinese
+U0EJ4URMoFHJEzAkMp4WWQ,Ollie's To Go,2425 Broadway,"{'latitude': 40.7904902, 'longitude': -73.9752417}",149,2.5,10024,chinese
+bB3mkNsEkIpkwuaKSKxSfw,Tofubox,632 Grand St,"{'latitude': 40.71125, 'longitude': -73.9468}",87,4.5,11211,chinese
+8Oo2AtQEPDfxIOnA8wfXoQ,886,26 Saint Marks Pl,"{'latitude': 40.72877, 'longitude': -73.98873}",377,4,10003,chinese
+Xnq40so4duth8y2ItGXFwA,Lucky Chance,395 Remsen Ave,"{'latitude': 40.656025, 'longitude': -73.923143}",2,5,11212,chinese
+Z56trGcq2vqlHi1VgYNxuA,Grace,952 Seneca Ave,"{'latitude': 40.69976, 'longitude': -73.903023}",4,4,11385,chinese
+HVZ4E2yL-k37oC4ayiubbQ,Sabrosura 2,1808 Westchester Ave,"{'latitude': 40.8317697392748, 'longitude': -73.86583769469}",128,4,10472,chinese
+VPYu7V80ijy_AQYgBv_fuQ,New Great Wall Chinese Restaurant,6913 Woodside Ave,"{'latitude': 40.74282, 'longitude': -73.8950799}",16,4,11377,chinese
+6OWMji5GiqRlRPZSb1lJ4A,Fay Da Bakery,321 W 6th Ave,"{'latitude': 40.73115, 'longitude': -74.00176}",235,4,10012,chinese
+8Jz2IfS-BGCm1GniqJVe2A,Saketumi Asian Bistro,118 Montague St,"{'latitude': 40.694698, 'longitude': -73.994769}",146,4,11201,chinese
+rlJ2Moc6A9R3qpYJlR8D3Q,Bamboo Express,772 Flatbush Ave,"{'latitude': 40.65395, 'longitude': -73.95993}",32,4,11226,chinese
+fBOhaN4rabcM9aJg5qWM-w,Chung Ching Restaurant,262 Alexander Ave,"{'latitude': 40.81019, 'longitude': -73.92476}",8,3.5,10454,chinese
+rDeFSYjPqpZI79tx2rYeUA,Asian Bay,1741 Sheepshead Bay Rd,"{'latitude': 40.58504, 'longitude': -73.95116}",66,3.5,11235,chinese
+Qwd4Tv-CqgO2Yl9zZgkKOQ,Shun Lee Palace,155 E 55th St,"{'latitude': 40.75945, 'longitude': -73.96907}",307,3,10022,chinese
+h7WwPbWt4Qgimc6K4oVTxA,Feng's Garden,11054 Queens Blvd,"{'latitude': 40.719054, 'longitude': -73.839431}",71,3.5,11375,chinese
+9v4l7pz4J709z0mkqUpQbw,Savory Thai,378 Metropolitan Ave,"{'latitude': 40.71395, 'longitude': -73.95554}",63,4.5,11211,chinese
+vC3yBLteaaPp0ycXRtfwPA,Tsing Garden Chinese Restaurant,6409 Park Ave,"{'latitude': 40.7892719, 'longitude': -74.0060948}",45,3.5,7093,chinese
+HM6cvh5A9LLBeb4Sca6fPA,Ten Full Restaurant,39-49 48th Ave,"{'latitude': 40.74018, 'longitude': -73.92511}",67,3,11104,chinese
+wtmPjQuCKeFuMdcR5SKEAQ,Ocean Restaurant,393 Malcolm X Blvd,"{'latitude': 40.81086, 'longitude': -73.94356}",19,2.5,10027,chinese
+ATqzYWJLxhNlaXGjmHGNZQ,New Szechuan House,5008 Skillman Ave,"{'latitude': 40.7459596, 'longitude': -73.9140785}",51,2.5,11377,chinese
+jfOMJ8y3llPbVJosDybLMw,Hope to See You 好久不见,133-42 39th Ave,"{'latitude': 40.759407, 'longitude': -73.832674}",27,4,11354,chinese
+B87c3bE_u53yNYO1cmHSIw,Flor de Mayo,2651 Broadway,"{'latitude': 40.797859, 'longitude': -73.969948}",577,4,10025,chinese
+LpSjWO4ZU6rbxGUetRp1mA,King Dumplings,74 Hester St,"{'latitude': 40.71605, 'longitude': -73.99169}",114,4.5,10002,chinese
+OyUqDYNctt81gsNLvfHp5A,Homei Restaurant,222 Malcolm X Blvd,"{'latitude': 40.6854858398438, 'longitude': -73.9298324584961}",14,4,11221,chinese
+BJn68qCExYQrPCT7CeOpzw,Moon Star Grill,3519-25 Johnson Ave,"{'latitude': 40.8861089331436, 'longitude': -73.909908766271}",107,4,10463,chinese
+aPI3_mdisxIOo9EwBEJPZQ,Number 1 Chinese Kitchen,642 Washington St,"{'latitude': 40.7446399, 'longitude': -74.0289899}",55,3,7030,chinese
+sjOp9UbbfKbohpEjQt2JRg,King Dragon,120 Mt Eden Ave,"{'latitude': 40.84323, 'longitude': -73.91249}",7,4.5,10452,chinese
+CqvbXj6siqnBKaTjqNWwuw,Good Taste Chinese Restaurant,281 E 161st St,"{'latitude': 40.825765, 'longitude': -73.917702}",7,3.5,10451,chinese
+BG0F1eTMikmXnL2C03Oq3A,Foo-Hing Chinese Kitchen,2706 3rd Ave,"{'latitude': 40.8135242, 'longitude': -73.9222125}",5,4.5,10454,chinese
+gAyoxWC4GleDVBp17OQ9qA,Sunrise Restaurant,9607 101st Ave,"{'latitude': 40.684894, 'longitude': -73.84471}",8,4.5,11416,chinese
+gNFgZSfndMAjK0ClvQ5Q2A,Moon Palace Kitchen,63-12 Flushing Ave,"{'latitude': 40.72222, 'longitude': -73.90177}",24,3,11378,chinese
+_nloHouWAuEw7g7SgbAWOQ,ChowTime,1418 Mermaid Ave,"{'latitude': 40.576542, 'longitude': -73.982036}",48,4.5,11224,chinese
+XDv71A1J3aIOu_W5sVzZ2w,Shi Miao Dao Yunnan Rice Noodle,33 Saint Marks Pl,"{'latitude': 40.72904, 'longitude': -73.9881}",104,4,10003,chinese
+ECKMWJwm_sihRQIP1ydeOA,New Golden Chopstick Chinese Restaurant,77 Pearl St,"{'latitude': 40.7043185353197, 'longitude': -74.010657025795}",39,3,10004,chinese
+yuXmo3XGH_G-wY7g3gpeAg,Wing Hua,508 Court St,"{'latitude': 40.676475, 'longitude': -73.999031}",44,3.5,11231,chinese
+77zkzHD6Kavy1vT-sPXxJA,Hang Shing Kitchen,104-09 Metropolitan Ave,"{'latitude': 40.7102074072038, 'longitude': -73.8485997417336}",29,4,11375,chinese
+cxBDRNIHTHg9X2xDuczPIg,Kawah Chinese Restaurant,3044 Valentine Ave,"{'latitude': 40.87385, 'longitude': -73.88482}",27,4,10458,chinese
+duVKdeFRXc6Tr2UY5vTPwQ,New General Tso's Restaurant,1215 White Plains Rd,"{'latitude': 40.83117, 'longitude': -73.8621299}",16,4,10472,chinese
+Hq2FG_zs4J7BTFwUF0VYrw,Linda Asian Kitchen,882 Dekalb Ave,"{'latitude': 40.692363, 'longitude': -73.940589}",25,3,11221,chinese
+smxIke5NSkMIExa6jLVw-g,Joe's Steam Rice Roll,422 Amsterdam Ave,"{'latitude': 40.78411, 'longitude': -73.977964}",28,4.5,10024,chinese
+uvZKMl19GMOhf7zn1jsFdA,Golden Star Kitchen,638 Blake Ave,"{'latitude': 40.66756, 'longitude': -73.89527}",2,3.5,11207,chinese
+iieHiReZ8XDDEy5qtukuVw,Golden Village Chinese Kitchen,5912 Glenwood Rd,"{'latitude': 40.63401, 'longitude': -73.91935}",11,4,11234,chinese
+xfUULVOdsH7bb47u2yyC7A,Empire Szechuan Restaurant,1495 Forest Ave,"{'latitude': 40.62597167, 'longitude': -74.13739667}",57,3,10302,chinese
+MnjB_RIJG0sDTk7dGggA4w,New China,1135 Myrtle Ave,"{'latitude': 40.69701, 'longitude': -73.93612}",13,4,11206,chinese
+GBwix4fH52ge9WRiPXmrbQ,Wah Hing Kitchen,12519 Rockaway Blvd,"{'latitude': 40.6755799, 'longitude': -73.8121199}",14,4.5,11420,chinese
+56rTisZA_iEekMsyZHvSHQ,MomenTea Kitchen,213 W 40th St,"{'latitude': 40.7551628731681, 'longitude': -73.9885599911213}",56,4,10018,chinese
+s-VHq3N7aJaIxkwcfEYW3g,Dong Fang Kitchen,433A Ralph Ave,"{'latitude': 40.674346, 'longitude': -73.921806}",3,4.5,11233,chinese
+Z9t-ou4JhiBu-n4-F7hDng,Meet Noodles,50 3rd Ave,"{'latitude': 40.731042, 'longitude': -73.989207}",201,4.5,10003,chinese
+feY7PgoRjCp2qReaIitRkQ,Boran,462 Court St,"{'latitude': 40.6782327, 'longitude': -73.998062}",179,4.5,11231,chinese
+YkHSu1qIQvG9uxTTBUYIoQ,King Garden Restaurant,4316 Broadway,"{'latitude': 40.85188, 'longitude': -73.9346599}",17,4,10033,chinese
+ru9KtvY8f_b2SKrKwtS3CA,Lo-Fatt-Chow,720 Monroe St C-103,"{'latitude': 40.7474615723213, 'longitude': -74.0378006521148}",134,4,7030,chinese
+31fcTAZjm1MG7abejOiI-Q,Long Cheng,2977 Fulton St,"{'latitude': 40.68004, 'longitude': -73.88503}",4,4.5,11208,chinese
+DyC5HxYK8E09N2Hb-6WyGQ,ChopStix Sheepshead Bay,3790 Nostrand Ave,"{'latitude': 40.591281, 'longitude': -73.940339}",287,3.5,11235,chinese
+6uPtOyrxXV8y1y8pvLU2pA,Pic Up Stix,1372 Lexington Ave,"{'latitude': 40.78259, 'longitude': -73.95352}",69,3,10128,chinese
+sDaPycSxgCABsIeAdzn-yw,Double Happy,8518 Jamaica Ave,"{'latitude': 40.6923332214355, 'longitude': -73.8583450317383}",19,3.5,11421,chinese
+FDhOPRZ01PDEEH-QCnVIyQ,Chef Quang Guyanese Chinese Express,3360 Atlantic Ave,"{'latitude': 40.681229, 'longitude': -73.872071}",53,3.5,11208,chinese
+zv3QIA-xGfegH9EGpxgriQ,Tasty & Co,94-19 63rd Dr,"{'latitude': 40.7293015, 'longitude': -73.8631973}",79,3.5,11374,chinese
+RPBQC0LGOI1FrXiGKn0jHw,Empire East NY,1445 Richmond Ave,"{'latitude': 40.61374, 'longitude': -74.1574104}",83,3.5,10314,chinese
+fPW_GBZsnBNsIzK62sCHBg,Xi'an Famous Foods,45 Bayard St,"{'latitude': 40.715082, 'longitude': -73.997342}",1014,4,10013,chinese
+Vu3YWBTA6ygLq2RweWZM8Q,Panda Garden,128 Lincoln Ave,"{'latitude': 40.5789108, 'longitude': -74.1083069}",16,4,10306,chinese
+gxEYxWqKVhs8xBw9Lvd7hA,East Garden Chinese Restaurant,1685 1st Ave,"{'latitude': 40.77793, 'longitude': -73.94902}",55,3.5,10128,chinese
+dSaMEWm0EQTG4TOeUetU5w,Jian Bing Man,11 W 32nd St,"{'latitude': 40.74761, 'longitude': -73.98631}",160,3,10001,chinese
+kYJbGSjyXocbRrgMV-zExg,Six Happiness,1413 2nd Ave,"{'latitude': 40.7700042724609, 'longitude': -73.9578247070312}",120,3,10021,chinese
+yl49QxoU_RDHR6wQy-j34Q,Wah Lung Chinese Food,1932 Kings Hwy,"{'latitude': 40.6104668294336, 'longitude': -73.9537711246306}",14,3.5,11229,chinese
+WoZ9Kyv-HGW6pYhc5lPT7w,Big Apple Kitchen,489 Rockaway Ave,"{'latitude': 40.6680412, 'longitude': -73.9101181}",4,2.5,11212,chinese
+gqUR7hd3NsxOD_JrD-iFfQ,Traditional Chinese Food Cart,35 W 4th St,"{'latitude': 40.7293724, 'longitude': -73.995937}",8,4.5,10014,chinese
+7DbDmJhQtE2yZvVzaan57w,Golden China,1013 Sutter Ave,"{'latitude': 40.6715889, 'longitude': -73.8814392}",4,4,11208,chinese
+TLfJHjspbrMGmBZ02J6yig,New Nice China Town,1411 Foster Ave,"{'latitude': 40.634093, 'longitude': -73.963589}",22,3.5,11230,chinese
+W8ZNzkFfHzKKfs6JGrMKLw,Brother's Asian Cuisine,8621 4th Ave,"{'latitude': 40.62209, 'longitude': -74.02844}",22,4,11209,chinese
+c9I4-T9wTlMmJEHb4obEdQ,Happy Gathering,3220 34th Ave,"{'latitude': 40.7589, 'longitude': -73.92601}",51,3,11106,chinese
+p2sAfaFyfFj9nYPyqcmQdw,Thai Sidewalk,Adams St And Front St,"{'latitude': 40.7024794, 'longitude': -73.9885649}",39,4.5,11201,chinese
+P4SrOAYsuJ8iX7cHyewGyQ,Far East,471 A 5th Ave,"{'latitude': 40.668091, 'longitude': -73.986855}",25,3,11215,chinese
+MP2PwlyaedmF5pu3DUNKcA,Double Chinese Restaurant,6110 Myrtle Ave,"{'latitude': 40.700747699777, 'longitude': -73.8937299233951}",10,3.5,11385,chinese
+fNAIjp3E05b9lCQesnol8g,The Old Spot,523 Jersey Ave,"{'latitude': 40.72108, 'longitude': -74.04676}",59,4,7302,chinese
+1yGMdJX048NHUAAV-MLlWg,Szechwan Absolute 绝对四川,39-16 Prince St,"{'latitude': 40.75924, 'longitude': -73.8326}",72,4,11354,chinese
+3K7Kc82bhU6-qjAjsBs3Fw,Lao Bei Fang Dumpling House,8305 Broadway,"{'latitude': 40.74111, 'longitude': -73.87977}",574,4,11373,chinese
+UyBbMNIM7zA3fh6lEnLiZQ,Annie 88 Express,880 Nostrand Ave,"{'latitude': 40.667897, 'longitude': -73.95103}",25,3.5,11225,chinese
+AQqUiXi0hn1xu5qVfM54IQ,Beijing Dumpling House,88-38 Sutphin Blvd,"{'latitude': 40.7043147, 'longitude': -73.8091804}",297,4.5,11435,chinese
+StFf9fVnAlhwrUWan0C4Ww,Wanisa Home Kitchen,142 Smith St,"{'latitude': 40.687, 'longitude': -73.99042}",144,4.5,11201,chinese
+MWcj6VKEO-6zU7HnyO02WQ,No 1 Fusion,16-35 Woodbine St,"{'latitude': 40.7000923, 'longitude': -73.909462}",2,4.5,11385,chinese
+OpUM9bpPbk8SV5JNosGyHQ,Green Garden,752 Forest Ave,"{'latitude': 40.62896, 'longitude': -74.11416}",33,3,10310,chinese
+zZecd370h2jxzh1kRJ4y2g,Asian Jewels Seafood Restaurant,13330 39th Ave,"{'latitude': 40.759076, 'longitude': -73.8337556}",1082,3.5,11354,chinese
+pqGGfA3Vm9srfTIJLgL0Ew,Mama's Noodle House,1782 Bay Ridge Ave,"{'latitude': 40.6168614546041, 'longitude': -73.9930436387658}",98,4.5,11204,chinese
+E1QQuFMX7DAEt8jV4attkA,Taste Good,18 W 25th St,"{'latitude': 40.7433836718734, 'longitude': -73.9901636441803}",100,3.5,10010,chinese
+Zp61sdZ7-d-XCbdCmnwUtA,Hengchang 2,2042 Rockaway Pkwy,"{'latitude': 40.63279, 'longitude': -73.889681}",9,4.5,11236,chinese
+SG99Hk4-PShkVP8eEBx4EA,China Kitchen,3312 Church Ave,"{'latitude': 40.65085, 'longitude': -73.94619}",5,2,11203,chinese
+kbHZif05N4bdPIWmAI-MaQ,King Wok Restaurant,10829 Ascan Ave,"{'latitude': 40.718273, 'longitude': -73.840868}",38,3.5,11375,chinese
+H5QnLri9HsNsW6smb7digQ,Wangs,671 Union St,"{'latitude': 40.6772587448359, 'longitude': -73.9825364202261}",268,4,11215,chinese
+6t22uVBh30DFT88rQ5e95A,Xing Wong BBQ,89 E Broadway,"{'latitude': 40.7135461657203, 'longitude': -73.9935723692179}",40,3.5,10002,chinese
+c_Kellz-oODKoNpcRbV24w,MONOMONO,116 E 4th St,"{'latitude': 40.72549, 'longitude': -73.98803}",483,4,10003,chinese
+khEsiq_isObizKE_RuP3Sw,King's Wok,3575 Broadway,"{'latitude': 40.82762, 'longitude': -73.9499}",26,4,10031,chinese
+JjzCmRn3q8JrlwHx8nFhAA,Tang Hotpot,135 Bowery,"{'latitude': 40.71866, 'longitude': -73.99435}",246,4,10002,chinese
+bGOZTD9O00OkVA1Pkt3OuQ,A A Jing,689 9th Ave,"{'latitude': 40.762, 'longitude': -73.99041}",292,3.5,10036,chinese
+aPwricrGCiBXy6DGEJS7mA,ShiMiaoDao Yunnan Rice Noodle,59-14 Kissena Blvd,"{'latitude': 40.740409, 'longitude': -73.8153244}",5,4,11355,chinese
+6wJOojpF2c4lLeBNbTBB0A,Baoburg,614 Manhattan Ave,"{'latitude': 40.7234929271998, 'longitude': -73.9503321851175}",238,4,11222,chinese
+dfm69NWJMqvLbQBKlaFd7w,Hung Chow Restaurant,2266 3rd Ave,"{'latitude': 40.8027, 'longitude': -73.93688}",4,4,10035,chinese
+L1Jw7GRSp9uS1l7PGSVVng,China King,14 Bradley Ave,"{'latitude': 40.6119499, 'longitude': -74.1325989}",18,4,10314,chinese
+v5CsUc6pr7foHWsoQ0Y36Q,Ho Wan Restaurant,111-05 Liberty Ave,"{'latitude': 40.68508, 'longitude': -73.83095}",104,3.5,11419,chinese
+gcbznFthZ-elsQrYYXrcXQ,Shun Wei,45 Catherine St,"{'latitude': 40.71194, 'longitude': -73.99669}",26,2.5,10038,chinese
+Wezt_3dALzHmfXjHOPG4GQ,Empire,1902 Adam Clayton Powell Jr Blvd,"{'latitude': 40.8028688256819, 'longitude': -73.9530954451981}",29,3,10039,chinese
+42yAC0qRSLTYBcmdZs_9Dw,Mr Zeng Chinese Food,11402 Liberty Ave,"{'latitude': 40.6854, 'longitude': -73.82837}",23,4.5,11419,chinese
+upEljMinfeX9q5jtZPSA0A,Meiya Kitchen,858 Gerard Ave,"{'latitude': 40.82712, 'longitude': -73.92503}",8,3.5,10451,chinese
+ldEnlFvW6Rqqoryh6hdDpQ,Friendship Food,103 Bowery,"{'latitude': 40.7175013525047, 'longitude': -73.995192164058}",18,3.5,10002,chinese
+BJi6fX-mObaJ3N75v6mwaQ,Restaurant On 58 St,773 58th St,"{'latitude': 40.637012, 'longitude': -74.00853}",23,4,11220,chinese
+bpeeh-kkay0ZE7mGXsCVKQ,Ahana,1154 1st Ave,"{'latitude': 40.7622458, 'longitude': -73.9598571}",149,4,10065,chinese
+ISJTy8URJpPzPtOrw_n8Ng,Great Wall,732 E 187th St,"{'latitude': 40.85356, 'longitude': -73.88317}",3,5,10458,chinese
+9UkHgv9R3LakP0vNj6DMIg,Charm Kao,193 Schermerhorn St,"{'latitude': 40.6892229764259, 'longitude': -73.9863216751898}",57,4,11201,chinese
+C0uaRMiXCCtjXdQSZhaU_A,Chinah,525 Washington Blvd,"{'latitude': 40.726902, 'longitude': -74.035549}",47,4,7310,chinese
+8UlRXXPaSI383aiOiJQi5A,Famous Sichuan,10 Pell St,"{'latitude': 40.71487, 'longitude': -73.99758}",411,3.5,10013,chinese
+87C46cZ-Kbinme_hsgjspA,Teng Dragon,2923 8th Ave,"{'latitude': 40.8288972792979, 'longitude': -73.937735451885}",3,3.5,10039,chinese
+k4Aoi0jXt6S3W_lxCYO9Qg,Green Lake Restaurant,795 Flatbush Ave,"{'latitude': 40.65323, 'longitude': -73.95922}",57,3,11226,chinese
+vWEdeCMkv93KzVzjKqdvBw,New Sing Sheng Kitchen,89-05-07 37th Ave,"{'latitude': 40.74896, 'longitude': -73.89175}",22,4,11372,chinese
+bK-Y2zCIMolqRDHsaYUCWA,Royal Seafood Restaurant,103 Mott St,"{'latitude': 40.7174, 'longitude': -73.9977}",307,3,10013,chinese
+HA5H73HvFX74Y-oqJeKrvw,New China Pavilion,72 Belmont Ave,"{'latitude': 40.66872, 'longitude': -73.90776}",11,3.5,11212,chinese
+2IrDzLVFUFPp229c1x8YNw,Hong Man,27 Eldridge St,"{'latitude': 40.715145, 'longitude': -73.993698}",136,4,10002,chinese
+PtwT9HzGRDi5_xeSR6YFhQ,Maxim Garden Chinese Restaurant,13861 Queens Blvd,"{'latitude': 40.7074798, 'longitude': -73.8171551}",43,3,11435,chinese
+pB_DgoGxqikTapdeVCN9Dw,One Hotpot,11 W 36th St,"{'latitude': 40.750245, 'longitude': -73.984414}",2,5,10018,chinese
+XkL6fOBtaIqVCMXVCY9row,H K Wonton Garden,79 Mulberry St,"{'latitude': 40.7164688110352, 'longitude': -73.9992752075195}",747,3.5,10013,chinese
+Yb6PQ_4YQpJ0SVZ1tetkbg,Queens Seafood Restaurant,8222 45th Ave,"{'latitude': 40.7415032, 'longitude': -73.8825862}",124,4,11373,chinese
+YTjUhZh-5IaNsTvzHsOUQQ,No 1 Wok,262 Cypress Ave,"{'latitude': 40.805913, 'longitude': -73.913984}",12,2.5,10454,chinese
+Sj2StOWkhHIPE6_sS5RMCQ,Evergreen On 38,10 E 38th St,"{'latitude': 40.75041, 'longitude': -73.98199}",269,3.5,10016,chinese
+PXm4BNjTgWHYClemDAkDjw,Asian Kitchen,8543 Grand Ave,"{'latitude': 40.7358398, 'longitude': -73.8809509}",31,4,11373,chinese
+YigPOZxASGQX1IniEyCp8g,La Dinastia,145 W 72nd St,"{'latitude': 40.77833, 'longitude': -73.98022}",161,3.5,10023,chinese
+jqFPsQrQsgRkvUziYNKdSw,Jumbo Chinese Kitchen,113-04 Jamaica Ave,"{'latitude': 40.6976891, 'longitude': -73.8353577}",23,4,11418,chinese
+jXL7zCeuhZnQVei5rfq7qw,The Braised Shop,241 E 10th St,"{'latitude': 40.7289533, 'longitude': -73.9845}",91,4,10003,chinese
+vPbJRg5umcRMELTDsJik_A,Sariku Sushi & Hong Kong Noodle,174 Lexington Ave,"{'latitude': 40.7444, 'longitude': -73.98146}",36,3,10016,chinese
+HR_a2QSA_KJZIakufAJUmg,Szechuan Gourmet - Coming Soon!,21 W 39th St,"{'latitude': 40.75226, 'longitude': -73.98363}",2,5,10018,chinese
+3ESDUFulPVoMJdsqPQGm0A,Golden City Chinese Restaurant,423 9th Ave,"{'latitude': 40.753277148143, 'longitude': -73.996643608314}",83,3.5,10001,chinese
+9s2B7-yhDWYFk3uCGtc-GA,Island Garden Chinese Restaurant,1372 Bay St,"{'latitude': 40.610015, 'longitude': -74.063476}",19,3.5,10305,chinese
+AocrQdF6uHOIgoYvJ4Db8g,Happy Wok Chinese Restaurant,762 Franklin Ave,"{'latitude': 40.672592, 'longitude': -73.957571}",17,3.5,11238,chinese
+Gvg0ZLMsyZkLWHhT6uJs7w,Green Leaf,72-60 Metropolitan Ave,"{'latitude': 40.71244, 'longitude': -73.87957}",41,3.5,11379,chinese
+XQ8aU_CTj_TdlzVYMXWVqg,Hip Wo,255 Jefferson Ave,"{'latitude': 40.581122, 'longitude': -74.0979509}",1,5,10306,chinese
+74SKT4IxG-hXz71nRbheng,Ozi Dumplings,19 Bogart St,"{'latitude': 40.70381, 'longitude': -73.933159}",131,4,11206,chinese
+Dh2I2jRTXE7oDCfuA9vCoQ,Super China Pagoda,4720 30th Ave,"{'latitude': 40.7610039, 'longitude': -73.9091797}",47,3.5,11103,chinese
+K6JvBpyRN3JguAoRkiIhiQ,Family Garden Chinese Food Take Out,111A Ditmas Ave,"{'latitude': 40.6357102, 'longitude': -73.9776473}",15,4,11218,chinese
+KUW8hx5kinOT_XJj3ttCDQ,Go Noodle Nine Moon,1069 1st Ave,"{'latitude': 40.75932, 'longitude': -73.96254}",59,3,10022,chinese
+uTR5Z8ChaIXuBAicdrpDlw,Fu Hing Restaurant,874 Broadway,"{'latitude': 40.67709, 'longitude': -74.10673}",23,3.5,7002,chinese
+owKe1hapqCCLnme2Xr3mrA,Spice Noodle,1509 Lexington Ave,"{'latitude': 40.786726, 'longitude': -73.949952}",64,3.5,10029,chinese
+BKABojUN3G9vUrG3AlDZgQ,Wild Ginger,182 N 10th St,"{'latitude': 40.718859, 'longitude': -73.955371}",148,4,11211,chinese
+cvbgnHz3n-joYo5rqYfkHg,Wonderful Asian Restaurant,352 A Tompkins Ave,"{'latitude': 40.68555, 'longitude': -73.94449}",21,3,11216,chinese
+er5IdZdfNkYsSigugyYvsw,Wing Wah Restaurant,2308 1st Ave,"{'latitude': 40.797466, 'longitude': -73.933944}",15,3.5,10035,chinese
+S67SO2lFACuWY0AKPbbyfA,Chen's Garden II,1547 Arthur Kill Rd,"{'latitude': 40.5626885, 'longitude': -74.191104}",34,3.5,10312,chinese
+I1FoaHcmLe8CaDjGtKz2CQ,King's Taste,8406 Astoria Blvd,"{'latitude': 40.7643537, 'longitude': -73.8845476}",21,3,11370,chinese
+JDv_pfBjuaU3BR7GC6GxRQ,Yummy Yummy Chinese Restaurant,5273 65th Pl,"{'latitude': 40.7318717, 'longitude': -73.8999307}",43,3.5,11378,chinese
+7wrFd9tnIBMClzDnrWdSNw,Chinatown Kitchen,450 60th St,"{'latitude': 40.7885757502878, 'longitude': -74.0158536518411}",10,4.5,7093,chinese
+c6fkE7yNbpl1akgpEjmtkQ,Chuan Yue,842 64th St,"{'latitude': 40.63236, 'longitude': -74.01091}",61,4.5,11220,chinese
+71EQXj4urSJKrM7bZwM4Fg,624 Kam Hai Chinese,624 Caton Ave,"{'latitude': 40.64753, 'longitude': -73.97378}",47,2.5,11218,chinese
+FEPObR6IYWOFapJDwFhGTA,Wong's Kitchen,1525 Flatbush Ave,"{'latitude': 40.63378, 'longitude': -73.948287}",10,4,11210,chinese
+0jksmaH2Fiy3VTricU7g9A,Golden Kitchen,7909 Jamaica Ave,"{'latitude': 40.69224, 'longitude': -73.86299}",9,3.5,11421,chinese
+SP2vm-aBziDECxM3dENNIw,Asian King,2827 Coney Island Ave,"{'latitude': 40.58764, 'longitude': -73.96017}",56,4.5,11235,chinese
+LpfsAZ7mBmK1om17S477zA,Zhen Good Taste,5961 69th St,"{'latitude': 40.72182, 'longitude': -73.89278}",29,3.5,11378,chinese
+8td6qiBvZ-En6gSpPjXWzQ,Shanghai Zhen Gong Fu 上海真功夫,86-16 Queens Blvd,"{'latitude': 40.73599, 'longitude': -73.87735}",159,4,11373,chinese
+83ZJrizS8F7HuvExtqCpNQ,New Win Hing,1180 Bay St,"{'latitude': 40.6143029, 'longitude': -74.0664883}",27,3.5,10305,chinese
+JbAdL2vOd-8O_Xa2wRktug,New Hong Wong Seafood Restaurant,100 Bowery,"{'latitude': 40.717796, 'longitude': -73.995498}",34,3.5,10013,chinese
+upsutDYCUFo-uitRaYiAjw,Pearl of China,2830 Middletown Rd,"{'latitude': 40.8433599, 'longitude': -73.83553}",21,3.5,10461,chinese
+Ms6jgxyr0uW_aPbJoz_1Yw,New China 3,5814 Roosevelt Ave,"{'latitude': 40.745144, 'longitude': -73.906067}",45,3,11377,chinese
+M2sBQQLHV7oFhyif0un7DA,New Garden Chinese Restaurant,1755 Richmond Rd,"{'latitude': 40.587523, 'longitude': -74.103802}",13,3.5,10306,chinese
+igFRhlkG_cKF3a87fbVexw,Happy Dragon,3388 Jerome Ave,"{'latitude': 40.88045, 'longitude': -73.8836}",19,4,10467,chinese
+YE2FPm9o32ojTG2_1pJBYw,China House,55-01 Metropolitan Ave,"{'latitude': 40.7131484469408, 'longitude': -73.9087347686291}",6,4,11385,chinese
+WdvCF8x6_XcCEF-eyDduxw,China City,626 Nostrand Ave,"{'latitude': 40.67712, 'longitude': -73.94996}",1,4,11216,chinese
+1Duix1fA6zcJGdYAmBPkmw,Dumpling Man,100 Saint Marks Pl,"{'latitude': 40.727171, 'longitude': -73.9847508}",834,3.5,10009,chinese
+6qYic55Ho8xEL_iWxlrGSg,Zou's Restaurant,233 Utica Ave,"{'latitude': 40.670791, 'longitude': -73.930656}",2,4.5,11213,chinese
+njqbo43rFzj934E5eHbPCw,OK 218,218 Grand St,"{'latitude': 40.71899, 'longitude': -73.995811}",61,3.5,10013,chinese
+dVAI5zh29psdbHp9wGXwVQ,M Star Cafe,19 Division St,"{'latitude': 40.713928, 'longitude': -73.99652}",295,3.5,10002,chinese
+VmhJfKhSFj3XOHTsT3Qhjg,Ming Wok,8418A Northern Blvd,"{'latitude': 40.7555390072011, 'longitude': -73.883957862854}",16,4,11372,chinese
+BAKjtydOJj6KrsGCo-6DEQ,Wing Hing Chinese Restaurant,312 Rogers Ave,"{'latitude': 40.665832, 'longitude': -73.953918}",13,4,11225,chinese
+D-PPbfPcCNyKs7w0J4tMvQ,East Palace,819 2nd Ave,"{'latitude': 40.7510528564453, 'longitude': -73.9716644287109}",86,3,10017,chinese
+LktxVJKPev11aC5SeqlLTA,Daxi Sichuan 大喜,136-20 Roosevelt Ave,"{'latitude': 40.75933, 'longitude': -73.8291799}",293,4,11354,chinese
+2lxsbaVX8REi0sbFu4TzpQ,Chinito Latino,122 Dyckman St,"{'latitude': 40.86217, 'longitude': -73.92551}",52,3.5,10040,chinese
+hUTDWZofpjLrohhJMYeawA,95 HomeDish,95 Chrystie St,"{'latitude': 40.71776, 'longitude': -73.99422}",48,3.5,10002,chinese
+xeJP91WQEqQlW7dV38K2ZA,Sun Luck Kitchen,197 5th Ave,"{'latitude': 40.67668, 'longitude': -73.98013}",56,3,11217,chinese
+XvOhc15ETRp8FkK1_lVizQ,Chang Lai Fishballs & Noodles,240 Grand St,"{'latitude': 40.718481, 'longitude': -73.994468}",9,5,10002,chinese
+BcOuqkUniZJG5NLpdzeOYQ,Friendly Restaurant,1205 40th Ave,"{'latitude': 40.7559963313064, 'longitude': -73.9424634196434}",60,3.5,11101,chinese
+4OMdn4aQt4KUNSNCVEiP6Q,New Dragon Star Chinese Kitchen,4216 White Plains Rd,"{'latitude': 40.89393, 'longitude': -73.85677}",12,4,10466,chinese
+entLjafiBAYOvbJYHRvyrw,Yang Garden,816 W 187th St,"{'latitude': 40.855266, 'longitude': -73.937759}",20,3.5,10033,chinese
+l1JP5MiQja95rF99qeJ1zw,Golden Wok,1770 Amsterdam Ave,"{'latitude': 40.827003, 'longitude': -73.946723}",55,3.5,10031,chinese
+f9_L7uj8IxUJXDvioHDXdw,Bay Parkway Cafe,6812 Bay Pkwy,"{'latitude': 40.6120414733887, 'longitude': -73.983757019043}",35,3.5,11204,chinese
+GfLL6-n6UNZ07SEHfjeIgA,Mee Sum Cafe,26 Pell St,"{'latitude': 40.715045, 'longitude': -73.998291}",35,3.5,10013,chinese
+dhB25jGq35AxU_ym6W0MVw,Wah-Sing Restaurant,143 Rockaway Ave,"{'latitude': 40.67787, 'longitude': -73.91064}",2,4,11233,chinese
+0kKYP-_ScvaHi0LUqg-iBA,New Ah Ping Snacketeria,45 Division St,"{'latitude': 40.714019, 'longitude': -73.995353}",15,4,10002,chinese
+FbkZRYe4H7Mtj-3R40sehg,Lee's Chinese Takeaway,37 Bridge Street,"{'latitude': 56.1626353, 'longitude': -3.6738215}",1,5,FK14 7DG,chinese
+fahnqhxhFqyMAHKVC01sSA,Moishe's Place,868 Bedford Ave,"{'latitude': 40.6952229685817, 'longitude': -73.9563989639282}",15,3.5,11205,chinese
+IjmcxZDPeCgSE81n2qlKmg,New China Star,10538 Rockaway Blvd,"{'latitude': 40.678356, 'longitude': -73.833305}",12,3.5,11417,chinese
+g4EXxoV0z_TnyWF8h9xMKQ,May Kaidee East Broadway,215 E Broadway,"{'latitude': 40.7140637, 'longitude': -73.987464979291}",73,4.5,10002,chinese
+3oB2_2vpeIyxJt1GvlcZBA,Baodega,7 W 20th St,"{'latitude': 40.74014, 'longitude': -73.99178}",150,4,10011,chinese
+LJoNFt19j3wtumQP2J7i8g,Jade Spoon Asian Cuisine,1473 Weaver St,"{'latitude': 40.9804998, 'longitude': -73.7763127}",133,4.5,10583,chinese
+48-joHeN5Y-BWTDI38fzDA,Best Kitchen Time,1250 Nostrand Ave,"{'latitude': 40.65659, 'longitude': -73.95035}",9,4,11225,chinese
+ERFZd5sYGBrKQwqRKWwTQA,King's Food,170 Graham Ave,"{'latitude': 40.70757, 'longitude': -73.94292}",34,3,11206,chinese
+aOnpZazKuokzBQuJ4QofxA,Empire Restaurant,617 Wilson Ave,"{'latitude': 40.690147, 'longitude': -73.90673}",22,2.5,11207,chinese
+3DVKbi5cSLMlmph43RF_kA,LuAnne's Wild Ginger All-Asian Vegan,112 Smith St,"{'latitude': 40.687936, 'longitude': -73.989925}",354,4,11201,chinese
+2MxGdAiDLXG4cz0ZMH1CiA,Oriental Plaza Chinese & Japanese Restaurant,1845 Richmond Ave,"{'latitude': 40.603032, 'longitude': -74.162377}",131,3.5,10314,chinese
+s1er-RauI-xaGWneqhS6fQ,New Tung Hing Chinese Kitchen,693 Kennedy Blvd,"{'latitude': 40.66944, 'longitude': -74.12052}",32,4,7002,chinese
+Qd4LleGL1MU7hcBYXcyVSA,Good Chinese Kitchen,8101 Tonnelle Ave,"{'latitude': 40.80828, 'longitude': -74.01806}",34,4,7047,chinese
+1UtavhY5umBJPJkP2jJGMw,Memories of Shanghai,68-60 Austin St,"{'latitude': 40.722256, 'longitude': -73.850882}",175,4,11375,chinese
+ZybTcEwBUeQqiiyyBpoiPQ,White Bear,135-02 Roosevelt Ave,"{'latitude': 40.758783, 'longitude': -73.83163}",988,4,11354,chinese
+9aRUixGqy9wr581lF2rKMA,Fu Lai Kitchen,6815 3rd Ave,"{'latitude': 40.63595, 'longitude': -74.0256}",14,3.5,11220,chinese
+O2jCWIOWb-IhyZGZLTNNoA,Peking Kitchen II,2162 8th Ave,"{'latitude': 40.80479, 'longitude': -73.954735}",16,3.5,10026,chinese
+7Fv8r-NFhIqlzrFwoAuWqg,China Guan Bing,2748 Jackson Ave,"{'latitude': 40.7481586, 'longitude': -73.9390957}",8,4.5,11101,chinese
+3Rah-cvFk79duFQ83voQ5A,99 Favor Taste,37 St Marks Pl,"{'latitude': 40.728833, 'longitude': -73.988094}",683,4,10003,chinese
+a2sxaQooPmq9r7Cc-Umunw,Precious Japanese & Chinese Cuisine,128 Washington St,"{'latitude': 40.738484, 'longitude': -74.030919}",269,3.5,7030,chinese
+xd_8cHyPO8sjIV8JMojHnw,Red House,203 E 14th St,"{'latitude': 40.7333221435547, 'longitude': -73.9865036010742}",93,2.5,10003,chinese
+ihBRikaKYVdJ7M0gVEGjZg,Maomao,1000 Bdwy,"{'latitude': 40.69583, 'longitude': -73.933508}",2,5,11221,chinese
+r6ZrAEbUgacU6i5mvySBMQ,New 888 Kitchen,6092 Flushing Ave,"{'latitude': 40.72064, 'longitude': -73.9043}",16,2.5,11378,chinese
+Upy5v6_311t1CUV3ru4jQA,Asian Cafe,158-28 Cross Bay Blvd,"{'latitude': 40.6599740553576, 'longitude': -73.8403585553169}",19,4,11414,chinese
+FeTHmYg5RJiE23yFIPO7sg,Q Town Asian Cuisine,82-87 Broadway,"{'latitude': 40.7415014, 'longitude': -73.8802964}",108,4,11373,chinese
+naXE13hiCj-7LMMgcueLMg,Wah Lung Kitchen,2111 21st Ave,"{'latitude': 40.78214, 'longitude': -73.914151}",16,3.5,11105,chinese
+NJGtDl4jqIaRz0qEnfUOOQ,Beijing House,553 Wilson Ave,"{'latitude': 40.691618, 'longitude': -73.909248}",48,3.5,11207,chinese
+5W89QQZqPJazBS80anuu3Q,Wah Yoan Restaurant,5406 Park Ave,"{'latitude': 40.78225, 'longitude': -74.01201}",18,4,7093,chinese
+1Ed-tb_0dBGrXfsYyehmvg,Momofuku 207,207 2nd Ave,"{'latitude': 40.731666, 'longitude': -73.985712}",2431,4,10003,chinese
+MUeccJfwQZVkSLe1-C0FVA,Liuyishou Hotpot,136-76 39th Ave,"{'latitude': 40.7607682, 'longitude': -73.8276729}",294,4.5,11354,chinese
+HDoJIH-qW9FqJ5WB-bKTqA,MIGHTY Bowl,1109 Lexington Ave,"{'latitude': 40.7738, 'longitude': -73.95945}",101,4.5,10075,chinese
+dBpttLTwkOT3HtFZ-u9vgQ,Panda Garden Restaurant,5917 Roosevelt Ave,"{'latitude': 40.7455887091084, 'longitude': -73.9046854516638}",27,3.5,11377,chinese
+uiKZ8Th-Ld8EKJ9g_jc9bg,China Moon Open Kitchen,2567 Cropsey Ave,"{'latitude': 40.590787, 'longitude': -73.991399}",27,4.5,11214,chinese
+8cyRl5HIQzbkYD7orq223g,SHI,4720 Center Blvd,"{'latitude': 40.745979, 'longitude': -73.957094}",822,3.5,11109,chinese
+9jMek1KMCVXlRZJQWTCbxA,May May Kitchen,181 Clinton St,"{'latitude': 40.7151158270862, 'longitude': -73.9871851439696}",14,3,10002,chinese
+CZc8HqioU9WFJcml530kmQ,Grand Wok,3510 Ave S,"{'latitude': 40.60935, 'longitude': -73.93171}",16,3.5,11234,chinese
+nrN2ho_EnYamVx0SutpYnA,Keilly Chinese Restaurant,13211 B 14th Ave,"{'latitude': 40.7863674867809, 'longitude': -73.8360678}",44,3,11356,chinese
+2rjcqpDzCIHh1cyNFSh-4w,Asian Bowl,101-11 Queens Blvd,"{'latitude': 40.7266343214028, 'longitude': -73.8522079552807}",188,3.5,11375,chinese
+GrxbGiLMkl1jd665k1lbIQ,LULU Chinese,78-06 101st Ave,"{'latitude': 40.6802989, 'longitude': -73.8594402}",89,3.5,11416,chinese
+NLHHXy87krCnRGXkeLhmsw,Steamed Rice Rolls Cart,250 Grand St,"{'latitude': 40.7183599, 'longitude': -73.99395}",16,4.5,10002,chinese
+WlUxW52axRHu_x_Nh483Kg,Everybody's Kitchen,581 Midland Ave,"{'latitude': 40.5724, 'longitude': -74.0927}",14,4.5,10306,chinese
+m2_ZNFos5ugAwe8ft8eaEw,Eim Khao Mun Kai Elmhurst,81-32 Broadway,"{'latitude': 40.7429414097644, 'longitude': -73.8832733356575}",456,4.5,11373,chinese
+4YbhYETkSq2FpDtXRyzBEA,China One,677 5th Ave,"{'latitude': 40.6616096496582, 'longitude': -73.992790222168}",19,3,11215,chinese
+XfHgiIsoo1Pr_v04bx9ptg,Sushumai Asian Fusion,112 Stanton St,"{'latitude': 40.7211610690848, 'longitude': -73.9872866123915}",200,4.5,10002,chinese
+Wi367ViFEqzj_b308MqdOA,Taste Chinese Restaurant,178 Church St,"{'latitude': 40.7157208, 'longitude': -74.0075003}",30,2,10013,chinese
+FlZ1zdVEKWv7dwqm8Uw8-w,Raku,342 E 6th St,"{'latitude': 40.7264988089246, 'longitude': -73.9866526052356}",1111,4.5,10003,chinese
+aNuday09TjdGiTixOPm2NA,YunShang Rice Noodle House,752 61st St,"{'latitude': 40.635291, 'longitude': -74.011219}",13,3.5,11220,chinese
+FJFliqqHXFZutkp_dmWdfw,Zen Vegetarian House,773 Flatbush Ave,"{'latitude': 40.65396, 'longitude': -73.95937}",283,4,11226,chinese
+J2ks4DGmJ286xUI8WzlYeg,First Choice Chinese Kitchen,3893 Broadway,"{'latitude': 40.83778, 'longitude': -73.9425}",50,3.5,10032,chinese
+svNleiTRS0Pinpa5u393Eg,Number One Great Wall,446 Mother Gaston Blvd,"{'latitude': 40.6680863, 'longitude': -73.9066217}",6,3,11212,chinese
+gPId7ENK1ZA1qrNwI4z4UQ,Legend of Taste,2002 Utopia Pkwy,"{'latitude': 40.7794990539551, 'longitude': -73.7941589355469}",127,4,11357,chinese
+RCzBcrOgc2ZWzXmkdmb6QA,Taste of China,101 48th St,"{'latitude': 40.7789153727524, 'longitude': -74.0161604825466}",28,3.5,7087,chinese
+xZ19F2iiWiA36LAS5PH_GA,Great Wall Kitchen,2238 Adam Clayton Powell,"{'latitude': 40.8132892, 'longitude': -73.9454751}",7,3.5,10027,chinese
+q1A9AGyCpmVhlT7ZkGex-g,Chef Hong's Kitchen,55 Victory Blvd,"{'latitude': 40.6381, 'longitude': -74.07759}",12,3.5,10301,chinese
+84zvcPTAVCsSVtzCUtSDtA,Cha Chan Tang 茶餐廳,45 Mott St,"{'latitude': 40.7153, 'longitude': -73.99896}",1048,3,10013,chinese
+kghCpDxjiwzsB0qc667-gQ,Yummy Chinese Resturant,985 Nostrand Ave,"{'latitude': 40.664311, 'longitude': -73.950804}",2,4.5,11225,chinese
+HvwzpovfVUYPxWR6nogX-g,Golden Chef,1632 Crosby Ave,"{'latitude': 40.8449738353256, 'longitude': -73.8306849996683}",14,4.5,10461,chinese
+ELB1RgCv39PBewQx5gmW7Q,Xing Xing,9712 Rockaway Beach Blvd,"{'latitude': 40.5848875, 'longitude': -73.8194803}",13,3,11693,chinese
+uD0Tnv0DsMU_JhG7UlYRew,Hunan Park,610 Amsterdam Ave,"{'latitude': 40.79006, 'longitude': -73.97351}",1,2,10024,chinese
+8JUmgPzucg0qbc8oRSYgJw,New Choi Hee II,5907 Grand Ave,"{'latitude': 40.72083, 'longitude': -73.9079299}",5,4,11378,chinese
+MHYj7JzC_qqlQ62T_OwD-g,Lucky Pickle Dumpling,513 Amsterdam Ave,"{'latitude': 40.78676, 'longitude': -73.97547}",165,3.5,10024,chinese
+IVjw3i_dIWbcVra6OPMKZQ,Grill Master•Brooklyn,717 61st St,"{'latitude': 40.6359732, 'longitude': -74.0116674}",33,3.5,11220,chinese
+ClVM5z3w56dRmdO3cEGXHw,Szechuan Delight,709 86th St,"{'latitude': 40.6188999, 'longitude': -74.0216}",20,3.5,11228,chinese
+wIywXRHinK5FqvOx8Xq87w,Panda Chinese Restaurant,14611 Rockaway Blvd,"{'latitude': 40.6737209940604, 'longitude': -73.7909336577637}",28,3.5,11436,chinese
+A_CEd9I0te1uOgoFa6xUNA,China Tastes,627 Sutter Ave,"{'latitude': 40.66945, 'longitude': -73.89575}",6,2,11207,chinese
+mJ_k-dlsw3IMve3rVlBUmw,New Fu Sing Restaurant,1554 Ralph Ave,"{'latitude': 40.6389350891113, 'longitude': -73.9195404052734}",2,4,11234,chinese
+g7qtHQ_121mYWUdu3VWlrA,Tong,321 Starr St,"{'latitude': 40.708053, 'longitude': -73.920502}",36,5,11237,chinese
+JKIYD7GcDE1RjFE_J7JHhQ,East Dragon,95-17 57th Ave,"{'latitude': 40.7368126, 'longitude': -73.865593}",8,4,11368,chinese
+mJtzpKUPK2GquqpR9JS-jQ,Xing Wang No. 1,62 W Burnside Ave,"{'latitude': 40.85421, 'longitude': -73.91}",6,4.5,10453,chinese
+nFoosLWJGMBL5CRmrGUKyg,Delicious,1584 Rockaway Pkwy,"{'latitude': 40.6421039784519, 'longitude': -73.8993319496512}",4,5,11236,chinese
+jvNB0DJJlQRKDsvpNeTkHw,China Sun,1270A Saint Nicholas Ave,"{'latitude': 40.844467, 'longitude': -73.936866}",21,3.5,10033,chinese
+6zM0c7vvoddgza_qvKkATw,Golden Unicorn,18 E Broadway,"{'latitude': 40.7136770496642, 'longitude': -73.997163364418}",1782,3.5,10002,chinese
+mhfjsCmwppbb7huUSWLSxw,Dumpling House,9512 Jamaica Ave,"{'latitude': 40.694114, 'longitude': -73.849876}",14,3.5,11421,chinese
+T6Tmg7kL4Txx3e7wDUTvsA,Jade Bamboo,64-72 Dry Harbor Rd,"{'latitude': 40.7181848, 'longitude': -73.8726984}",33,3,11379,chinese
+R7mKCkD9ZZfeec92GW7esQ,Bangkok 2 Thai,349 1st Ave,"{'latitude': 40.7352413982153, 'longitude': -73.9798079431057}",199,4,10010,chinese
+1UGLCJYuqZasD4L6KzY7rg,Cheung Hing Kitchen,243 Beach 20th St,"{'latitude': 40.596772, 'longitude': -73.7543865}",7,3.5,11691,chinese
+DV1oGQXPKqVOli_ejx-i9w,Golden Palace Chinese Restaurant,682 Castle Hill Ave,"{'latitude': 40.82097, 'longitude': -73.84817}",14,3.5,10473,chinese
+nFqb7D7nng2FKunqlSd6XA,Empire Chinese Restaurant,103 Featherbed Ln,"{'latitude': 40.846452, 'longitude': -73.918398}",7,3,10452,chinese
+wqu8ZUOUH50m1LmdAdsDFg,New Red Star Chinese Kitchen,795 Southern Blvd,"{'latitude': 40.8162034, 'longitude': -73.8965443}",4,3.5,10455,chinese
+eOOHZfaZ-dIFG3drJca-3g,QQ Star Chinese Food,9212 4th Ave,"{'latitude': 40.6182098, 'longitude': -74.0304184}",16,4,11209,chinese
+lLO8Nj-kPJ_b6vEs022GxQ,Xiang Hot Pot,136-20 Roosevelt Ave,"{'latitude': 40.75933, 'longitude': -73.8291799}",300,4,11354,chinese
+GLuRmXLJV8YUBoHVifblMw,Empire 19,19  Knolls Crescent,"{'latitude': 40.87856, 'longitude': -73.91744}",35,3,10463,chinese
+VoAuIReq_cPUrFwxbWqG_Q,SalaThai Restaurant,307 Amsterdam Ave,"{'latitude': 40.7801199, 'longitude': -73.98032}",396,4.5,10023,chinese
+8SA_ZTKNo6TdD65u8ppRGQ,Panda House,82 Nagle Ave,"{'latitude': 40.86055, 'longitude': -73.92815}",24,3,10040,chinese
+oC1MLewpogrJUYoIeDoGBQ,Clear Lake Restaurant,44-29 9th St,"{'latitude': 40.7500843, 'longitude': -73.9515551}",11,3.5,11101,chinese
+JAC3_9kPdF0TFVBt3gYQVA,Broadway Chinese Seafood,83-17 Broadway,"{'latitude': 40.74093, 'longitude': -73.87931}",107,3,11373,chinese
+evHWhvANb4cvraeAzow0vg,Hong Garden,2515 Adam Clayton Powell,"{'latitude': 40.8219299316406, 'longitude': -73.9383544921875}",8,3.5,10039,chinese
+g7OcWb75E4KnZSvPi99uLA,Chopsticks,884 Remsen Ave,"{'latitude': 40.6463449448347, 'longitude': -73.9128579944372}",24,2.5,11236,chinese
+L9N9O2u_M9Daby9_myK4Yg,Mao’s Bao,4059 High Line,"{'latitude': 40.7480714928872, 'longitude': -74.004706248683}",11,3.5,10011,chinese
+QWskQ2QpR8bmza2FRFziOQ,Asian Fortune Restaurant,103-35 Queens Blvd,"{'latitude': 40.7244621, 'longitude': -73.8493213}",114,4,11375,chinese
+NMX7QiEh1-ZhAY52t9-Iow,King's Kitchen,2051 86th St,"{'latitude': 40.6040020469898, 'longitude': -73.9969891682267}",188,3,11214,chinese
+qVVBIO2w2HfEGS3SA27RUg,Simplylife Bakery & Cafe,7406 New Utrecht Ave,"{'latitude': 40.616598, 'longitude': -74.000017}",16,3.5,11204,chinese
+ifF_11thSAez-EK9K3ezmg,China Royal,1377 65th St,"{'latitude': 40.62489, 'longitude': -73.99939}",18,4,11219,chinese
+vLsTPg42rkgN5rUpNfg1OA,Dalongyi Hot Pot,159 Canal St,"{'latitude': 40.716557, 'longitude': -73.996583}",178,4,10013,chinese
+g42C_GsiLWzbVY2OZQsoyw,Ho May Kitchen,100 Woodpoint Rd,"{'latitude': 40.7186, 'longitude': -73.94072}",13,4,11211,chinese
+lPIeccnT2RQTHFKpDafoxQ,Wo Hop Next Door,15 Mott St,"{'latitude': 40.7142, 'longitude': -73.99886}",9,4.5,10013,chinese
+QZY3xdZvrhfBLPRVr6ryiQ,Lucky Star Restaurant,9419 Astoria Blvd,"{'latitude': 40.76309, 'longitude': -73.87443}",11,3,11369,chinese
+3TMP2pncE-0LwoDukbaqlg,Cafe Hong Kong,51 Bayard St,"{'latitude': 40.715206, 'longitude': -73.997528}",158,3.5,10013,chinese
+rLu0Kbs0fCycSDzeDM2U_g,Golden Star Chinese Restaurant,2110 Clove Rd,"{'latitude': 40.603137, 'longitude': -74.083366}",28,3.5,10305,chinese
+VTNMeipIiyRRenXcRBedpg,HK Food Court 香港美食城,8202 45th Ave,"{'latitude': 40.7414872, 'longitude': -73.8827301}",102,4,11373,chinese
+8SM-aKKwlK8JNaJTr60c6Q,East Met West,752 Metropolitan Ave,"{'latitude': 40.71446, 'longitude': -73.94392}",52,3,11211,chinese
+rGuXwUtNoDp0_GmspjYwcA,Petite Soo Chow,607 Gorge Rd,"{'latitude': 40.8245099, 'longitude': -73.98781}",546,3.5,7010,chinese
+si4n0EtvAl3QisVHoKPOuw,Wonton Noodle Garden,56 Mott St,"{'latitude': 40.7157921, 'longitude': -73.998189}",461,3.5,10013,chinese
+eKkwc5O8MnfPqDybnqRgCA,Mr Chans,395 Remsen Ave,"{'latitude': 40.6560417785732, 'longitude': -73.9233377011869}",1,5,11212,chinese
+e5wK3I_THzF4Ce_OgoSCQw,MOKYO,109 St Marks Pl,"{'latitude': 40.727223, 'longitude': -73.983878}",71,4.5,10009,chinese
+GkBG5otIqR6990wkMeO4JA,Hing Hung Kitchen,619 Nostrand Ave,"{'latitude': 40.67583, 'longitude': -73.94981}",11,3,11216,chinese
+9ieA0TyApI94wEqqW_r93w,Aaron's Chinese and Thai,338 9th Ave,"{'latitude': 40.750379, 'longitude': -73.998141}",55,2,10001,chinese
+sgEfjB0S5sQBWFl9IIBY5g,FamiLi Chinese Take Out,220-12 Horace Harding Expy,"{'latitude': 40.7487349873749, 'longitude': -73.757665507485}",35,4.5,11364,chinese
+vw_Xsqnep2odsL3l5-Tn1w,P.F. Chang's To Go,938 3rd Ave,"{'latitude': 40.7598503, 'longitude': -73.968008}",8,3,10022,chinese
+DMD9T2qmLopzy0JjQYtCag,Sunrise Chinese Restaurant,50 Eldridge St,"{'latitude': 40.7159409, 'longitude': -73.9927712}",11,2.5,10002,chinese
+bAMTBEztHz4zQqYiIyzf4w,Chong Qing Lao Zao,37-04 Prince St,"{'latitude': 40.76065, 'longitude': -73.83304}",105,4,11354,chinese
+J6ZCPE3Fu1Ikgy9qO7Cl3Q,Eastern Style Chinese,1233 Grant Ave,"{'latitude': 40.83389, 'longitude': -73.91509}",7,4,10456,chinese
+-5npn9NRmOun7VUVLZpjyw,Eat Gai,88 Essex St,"{'latitude': 40.7180351, 'longitude': -73.9882738}",67,4,10002,chinese
+Tr9TqR3UQilQgitrdoAkrQ,China Wok,5813 Avenue T,"{'latitude': 40.6155, 'longitude': -73.91841}",7,3.5,11234,chinese
+nrxSzq-VxLqD7aFkE4SH3Q,Cocoron,37 Kenmare St,"{'latitude': 40.7207236, 'longitude': -73.9953191}",656,4,10012,chinese
+Z263fPuSX3B3xNE7izgirw,New Wah On Restaurant,986 Sutter Ave,"{'latitude': 40.671097, 'longitude': -73.882299}",7,4.5,11208,chinese
+wo7-TKh4B37RTBjPNtkp7w,Chengdu1,166 15th St,"{'latitude': 40.7323552298113, 'longitude': -74.039612951068}",89,3.5,7310,chinese
+PgiqzwIfcV2eruGmNx77lw,Joy Kitchen,497 7th Ave,"{'latitude': 40.6614456176758, 'longitude': -73.9857482910156}",43,3.5,11215,chinese
+sb1_MyLHzmjV1Jk21pyOIA,Sao Mai,203 1st Ave,"{'latitude': 40.730362, 'longitude': -73.98362}",557,4,10003,chinese
+7rTl_d-dqlK5dGG31ogSBg,Nanking,134-07 Rockaway Blvd,"{'latitude': 40.67484, 'longitude': -73.80398}",356,4,11420,chinese
+Cyq9RDgBY41BHHEl14lUAQ,Appetizing Grill,147-34B Northern Blvd,"{'latitude': 40.7642403616326, 'longitude': -73.8263301197771}",28,4.5,11354,chinese
+lUJTTfuhJ7wFJeGd-DvDWw,Kam Fung Kitchen,5221 Ave N,"{'latitude': 40.61924, 'longitude': -73.92431}",16,2.5,11234,chinese
+zLKnugqoFX0BRQKJJsdnbg,Ting Fai Cuisine,1962 86th St,"{'latitude': 40.604761, 'longitude': -73.999101}",97,3.5,11214,chinese
+R0y03SFOY0BdHRUT1LSO0Q,Shanghai You Garden,135-33 40th Rd,"{'latitude': 40.75895, 'longitude': -73.83056}",1122,4,11354,chinese
+8Vn_BShtn8R3o-Sex34mrQ,King Garden,1 W 137th St,"{'latitude': 40.814108, 'longitude': -73.936707}",10,3,10037,chinese
+UAK1rAnP0Kz1s4ofQ7v0Cg,Noodle Edition,18 W 45th St,"{'latitude': 40.75571017977985, 'longitude': -73.98074262911973}",1,5,10036,chinese
+2QXh-2xPLl7JtzwbYXxBeA,Lucky Garden,143 Lafayette Ave,"{'latitude': 40.64134, 'longitude': -74.09481}",8,4.5,10301,chinese
+ADt4Wp-0XkSLXQ2nWoDnaw,Meet Rice,717 60th St,"{'latitude': 40.63663, 'longitude': -74.01112}",29,3,11220,chinese
+FYWwW5lcxKzaA98Xgw8bqA,hanon,436 Union Ave,"{'latitude': 40.7134488, 'longitude': -73.9513445}",145,4.5,11211,chinese
+2dmgtQTFM7koKllEQsZmhQ,City One Restaurant,2726A Frederick Douglass Blvd,"{'latitude': 40.8225557826076, 'longitude': -73.9419602962225}",17,3,10030,chinese
+Z0VCrAW4VKIL7SteB6w8Mw,No1 Chinese Restaurant,88-17 Jamaica Ave,"{'latitude': 40.692825, 'longitude': -73.855811}",5,3.5,11421,chinese
+cXN55ooqvyJBVbKhM3_tMA,Pacific Kitchen,4255 Amboy Rd,"{'latitude': 40.5477180688384, 'longitude': -74.1578657278159}",43,4,10308,chinese
+jfnDwWBGK4JoWE5jbeKxSw,Chu-Ros Thai,1590 Lexington Ave,"{'latitude': 40.78922, 'longitude': -73.94873}",85,4.5,10029,chinese
+3qK7p7vhthzsUC0_aYTlrA,Taste of China,1078 Nostrand Ave,"{'latitude': 40.661731, 'longitude': -73.951042}",8,3.5,11225,chinese
+J1o-SiCWvn0J-mLr6aEZDQ,Lee Panda,60-63 Fresh Pond Rd,"{'latitude': 40.71531, 'longitude': -73.90103}",6,2.5,11378,chinese
+S0Qydvh12n5E_uodsLa8eA,Co Co Lin Vegetarian House,64-19 Fresh Pond Rd,"{'latitude': 40.70989, 'longitude': -73.89871}",261,4,11385,chinese
+vgQS_pLd4AftB4RNVnyD-A,China Thai Chinese Restaurant,867 Flatbush Ave,"{'latitude': 40.6509874, 'longitude': -73.9586027}",16,2.5,11226,chinese
+oNhAkJItms2BDYTfDeVOUg,Red Star,2529 Adam Clayton Powell,"{'latitude': 40.8224602, 'longitude': -73.9381714}",17,2.5,10039,chinese
+gSeftTpNCSj2vuXY0zyoRA,Mr Bun,2048 86th St,"{'latitude': 40.603693, 'longitude': -73.997334}",217,4,11214,chinese
+NN3mOWF5e_pnR1ArqM2bHQ,OBAO,647 9th Ave,"{'latitude': 40.7606544, 'longitude': -73.991332}",2637,4,10036,chinese
+GDqIF-JMOO-8EM3yKn25_w,New Sze's Garden,201 Cypress Ave,"{'latitude': 40.7082630466795, 'longitude': -73.9197599887848}",29,4,11385,chinese
+JWQlPP4Oxrtwb0rNjnVgIg,Hunts Point Chinese Restaurant,901 Southern Blvd,"{'latitude': 40.81965, 'longitude': -73.89302}",4,4,10459,chinese
+V41mH9Rb-uQbCunrI4t5VQ,Mon Hing Chinese Kitchen,497 Albany Ave,"{'latitude': 40.66285, 'longitude': -73.93987}",2,4,11203,chinese
+CEgWKUjTsd4FKeVXWQ60sA,Good Taste Chinese Take Out,4215 Hylan Blvd,"{'latitude': 40.53749, 'longitude': -74.15074}",15,4,10308,chinese
+1uuxUq-QrUYX-Zal9TvFFQ,Charm Thai Express,1346 Amsterdam Ave,"{'latitude': 40.8139028640919, 'longitude': -73.9561226963997}",76,4,10027,chinese
+akWRnF0VFJLJD4uOnGWB-g,Po Wong Restaurant,617 Summit Ave,"{'latitude': 40.758224, 'longitude': -74.044303}",30,4,7087,chinese
+JeEEclAyzzROabgo1TN43A,Fu Xing House,3335 Fulton St,"{'latitude': 40.6837615966797, 'longitude': -73.8726119995117}",4,3.5,11208,chinese
+fQ2IN15gqlRrE2oS39nXjw,Taste of China,6708 Fresh Pond Rd,"{'latitude': 40.705543, 'longitude': -73.896781}",7,2.5,11385,chinese
+g512kssHLLTdDbUJHTmJFw,Stick To My Pot Potsticker,224 W 35th St,"{'latitude': 40.75202, 'longitude': -73.99121}",147,4.5,10001,chinese
+MXYtu8-0eNkW6L4firJfcw,Chinatown Restaurant,1650 3rd Ave,"{'latitude': 40.78286, 'longitude': -73.95126}",264,3,10128,chinese
+BkdFxt7e1saLr1eeqF3Msg,China Star,550 North Ave,"{'latitude': 40.673679, 'longitude': -74.230331}",21,4,7083,chinese
+RoqLH-4rDugHlduthnZggg,Flame Hibachi,381 3rd Ave,"{'latitude': 40.74152, 'longitude': -73.98097}",142,4,10016,chinese
+XNZXyahRs1-GOx-71LET1w,Sun Hing Chinese Restaurant,8914 Northern Blvd,"{'latitude': 40.756033, 'longitude': -73.878237}",13,3.5,11372,chinese
+IGjdEM0s4WfOYrMSzO6q9Q,KROK Brooklyn,117 Columbia St,"{'latitude': 40.68761, 'longitude': -74.0013}",73,4.5,11231,chinese
+oVdiFY9zSvgW0u-J0DoKbw,Chifa Restaurant,73-20 Northern Blvd,"{'latitude': 40.7545675, 'longitude': -73.8934179}",98,3.5,11372,chinese
+_3-d9GcVU7NvQvmUWaRZUQ,Long Spring Garden,62-05 Roosevelt Ave,"{'latitude': 40.745848, 'longitude': -73.901984}",26,3.5,11377,chinese
+d1pRHsBuYCZ4hdk0dyjE-g,Jade Chinese Restaurant,8159 Lefferts Blvd,"{'latitude': 40.7080256, 'longitude': -73.8306941}",45,4,11415,chinese
+E5lSdPAJhDY4xa-KTFs5og,Mr Tong Restaurant,2926 Fort Hamilton Pkwy,"{'latitude': 40.64837, 'longitude': -73.97821}",53,3,11218,chinese
+pCeNP_wq7i1Pgl0yCYEgag,Maxi’s Noodle,135-11 38th Ave,"{'latitude': 40.76052, 'longitude': -73.83227}",296,4.5,11354,chinese
+w3JUky8twpdZ9ge8aQHjEA,Liang Xian Garden,587 Sutter Ave,"{'latitude': 40.66916, 'longitude': -73.89734}",1,4,11207,chinese
+8dSqyc5rHkqRa_oHk2v3xw,Dun Huang,817 60th St,"{'latitude': 40.6353649, 'longitude': -74.00896}",61,4,11220,chinese
+sgKNAn72O2XMQXS6AWmf9w,Food King Kitchen,185 Newark Ave,"{'latitude': 40.72117, 'longitude': -74.04568}",91,4,7302,chinese
+2VQDEQuK3xLFNktPBIpmuQ,New Aroma Chinese Restaurant,465 W 125th St,"{'latitude': 40.8132171630859, 'longitude': -73.9557037353516}",28,3.5,10027,chinese
+rg0-55TElpe8N-4NySky_g,Yummy Chinese Restaurant,1195 Flatbush Ave,"{'latitude': 40.641075, 'longitude': -73.955819}",7,4,11226,chinese
+spJTHaNjEzKwoEiYWR1ggA,Ping's Seafood,22 Mott St,"{'latitude': 40.714442, 'longitude': -73.998636}",680,3.5,10013,chinese
+do4L5yWrrGPPZqVRZDcO2w,Yummy Yummy Chinese Restaurant,1349 Rockaway Pkwy,"{'latitude': 40.646978, 'longitude': -73.903965}",6,4,11236,chinese
+6kJxh1RCQykTHxWor538dA,Panda Delight,121 Smith St,"{'latitude': 40.687602, 'longitude': -73.989601}",33,2.5,11201,chinese
+OQ3qKAxzaqvc44Q95AJRbQ,Crispy Burger,196 Smith St,"{'latitude': 40.685075, 'longitude': -73.991769}",11,4,11201,chinese
+2z_2ETItITMQiuAE7tTZAQ,Silver Palace,3438 Bdwy,"{'latitude': 40.823034042794845, 'longitude': -73.9526024360038}",15,3,10032,chinese
+hZPnCn69y31pkqy334tviQ,Lily's,31 Oliver St,"{'latitude': 40.71211, 'longitude': -73.99806}",65,2.5,10038,chinese
